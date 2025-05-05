@@ -9,6 +9,7 @@
 *staff2	*staff1	*
 *clefF4	*clefG2	*
 *k[]	*k[]	*
+*C:	*C:	*
 *M3/4	*M3/4	*
 *MM160	*MM160	*
 =	=	=
@@ -55,6 +56,7 @@
 4G 4c 4e	.	.
 *	*X8va	*
 =:|!	=:|!	=:|!
+*d:	*d:	*
 4AA 4A	4a 4aa	ff
 =	=	=
 4AA 4A	4a 4aa	.
@@ -78,6 +80,7 @@
 4D`	4dd`	.
 *clefG2	*	*
 =	=	=
+*B-:	*B-:	*
 4B-X 4d 4f	4ff 4fff	p
 4B- 4d 4f	8ggL 8ggg	.
 .	8ffJ 8fff	.
@@ -121,6 +124,7 @@
 .	8r	.
 *clefF4	*	*
 =	=	=
+*C:	*C:	*
 4BBni	4gg 4ggg	f
 4G 4d 4f	8aaL 8aaa	.
 .	8ggJ 8ggg	.

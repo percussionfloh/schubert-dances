@@ -9,6 +9,7 @@
 *staff2	*staff1	*
 *clefF4	*clefG2	*
 *k[]	*k[]	*
+*a:	*a:	*
 *M3/4	*M3/4	*
 *MM160	*MM160	*
 =	=	=
@@ -23,6 +24,7 @@
 4AAA 4AA	4A 4a	.
 4AAA 4AA	4A 4a	.
 =	=	=
+*C:	*C:	*
 4FFF 4FF	4f 4a 4cc 4ff	.
 4AAA 4AA	4f 4a 4cc 4ff	.
 4FFF 4FF	4f 4a 4cc 4ff	.
@@ -30,6 +32,7 @@
 2CC 2C	2e 2g 2cc 2ee	.
 4C	4e 4cc 4ee	p
 =	=	=
+*a:	*a:	*
 4DD 4D	4.f 4.cc 4.ee	.
 2D 2F 2B	.	.
 .	8fL 8b 8dd	.
@@ -57,6 +60,7 @@
 4AAA 4AA	4A 4a	.
 4AAA 4AA	4A 4a	.
 =	=	=
+*C:	*C:	*
 4FFF 4FF	4a 4cc 4ff 4aa	.
 4AAA 4AA	4a 4cc 4ff 4aa	.
 4FFF 4FF	4a 4cc 4ff 4aa	.
@@ -64,6 +68,7 @@
 2CC 2C	2g 2cc 2ee 2gg	.
 4C	4g 4ee 4gg	p
 =	=	=
+*a:	*a:	*
 4DD 4D	4.g 4.ee 4.gg	.
 2D 2F 2B	.	.
 .	8fL 8dd 8ff	.
@@ -104,6 +109,7 @@
 2F 2A 2c	4f 4ff	.
 .	4f 4ff	.
 =	=	=
+*C:	*C:	*
 4FF#X 4F#X	4.cc^ 4.ccc	p
 2F# 2c 2e-X	.	.
 .	8bL 8bb	.
@@ -118,6 +124,7 @@
 4G 4B 4d 4f	4ff 4fff	.
 4G 4B 4d 4f	4ff 4fff	.
 =	=	=
+*a:	*a:	*
 2G#X 2B 2d 2e	2ee^ 2eee	.
 4GGG#X 4GG#X	4dd 4ee 4bb 4ddd	f
 =	=	=
