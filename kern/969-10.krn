@@ -1,0 +1,110 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 969
+!!!OPR: 12 Valses nobles
+!!!OPS: 77
+!!!ONM: 10
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*M3/4	*M3/4	*
+=1	=1	=1
+!	!LO:TX:b:i:t=legato	!
+4r	4cc	p
+=	=	=
+*	*^	*
+4F'	4cc	2a	.
+4A' 4f	8ddL	.	.
+.	8cc	.	.
+4c' 4f	8cc	4a	.
+.	8ffJ	.	.
+=	=	=	=
+4C'	(4ee	2g	.
+4G' 4e	4cc)	.	.
+4c' 4e	4cc'	4g	.
+=	=	=	=
+4GG	8b-ML	2.g	.
+.	8a	.	.
+4G 4d	8b-	.	.
+.	8dd	.	.
+4B- 4d	8cc	.	.
+.	8b-J	.	.
+=	=	=	=
+4D	(4dd	2f	.
+4F 4d	4a)	.	.
+4A 4d	4a'	4f	.
+=	=	=	=
+4D	4b-	2f	.
+4F 4d	8ccL	.	.
+.	8b-	.	.
+4B- 4d	8b-	4f	.
+.	8ddJ	.	.
+=	=	=	=
+4C	(4dd	2f	.
+4F 4c	4a)	.	.
+4A 4c	4a'	4f	.
+=	=	=	=
+4C	8b-ML	2e	.
+.	8a	.	.
+4G 4c	8b-	.	.
+.	8dd	.	.
+4C 4B- 4c	8cc	4e	.
+.	8b-J	.	.
+=	=	=	=
+2F 2A 2c	2a	2f	.
+*	*v	*v	*
+=:|!|:	=:|!|:	=:|!|:
+4r	4cc	.
+=	=	=
+*	*^	*
+4F	4cc	2a	.
+4A 4f	8ddL	.	.
+.	8cc	.	.
+4c 4f	8cc	4a	.
+.	8aaJ	.	.
+=	=	=	=
+4E	(4gg	2b-	.
+4B- 4g	4cc)	.	.
+4c 4g	4cc'	4b-	.
+=	=	=	=
+4F	4cc	2a	.
+4A 4f	8ddL	.	.
+.	8cc	.	.
+4c 4f	8cc	4a	.
+.	8aaJ	.	.
+=	=	=	=
+4D	(4ff	2a	.
+4A 4f	4dd)	.	.
+4d 4f	4dd'	4a	.
+=	=	=	=
+4F	4cc	2a	.
+4A 4f	8ddL	.	.
+.	8cc	.	.
+4c 4f	8cc	4a	<
+.	8aaJ	.	.
+=	=	=	=
+4A	(4ccc	2cc	.
+*clefG2	*	*	*
+4c 4a	4ff)	.	.
+4f 4a	4ff'	4cc	.
+*clefF4	*	*	*
+=	=	=	=
+4C	(4bb-	2b-	.
+*clefG2	*	*	*
+4c 4g	4ee)	.	.
+4c 4g	4ee'	4b-	.
+*	*v	*v	*
+*clefF4	*	*
+=	=	=
+2F 2c 2f	2a 2ff	p
+=:|!	=:|!	=:|!
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/05/05
+!!!ENC: Wolfgang Drescher
+!!!END: 2025/05/05
+!!!title: @{OPR}, @{SCT}. №@{ONM}
