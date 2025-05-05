@@ -13,6 +13,7 @@
 *M3/4	*M3/4	*
 *MM160	*MM160	*
 =	=	=
+*>A	*>A	*>A
 4r	4g	pf
 =	=	=
 4C	4g 4cc 4ee	.
@@ -36,6 +37,7 @@
 4E 4A 4c#X	4e) 4a 4cc# 4ee	.
 4E 4A 4c#	4e 4a 4cc# 4ee	.
 =	=	=
+*>A	*>A	*>A
 *C:	*C:	*
 4FF	4a 4ccni 4ff	.
 8FL 8A 8cni	8aL 8cc 8ff	.
@@ -54,6 +56,7 @@
 4C	2cc 2ee 2gg 2ccc	.
 4G 4c 4e	.	.
 =:|!|:	=:|!|:	=:|!|:
+*>X	*>X	*>X
 4r	4cc 4ee 4gg	f
 =	=	=
 4GG	4b 4dd 4ff 4aa	.
@@ -74,6 +77,7 @@
 4E 4G 4c	4e) 4g 4cc	.
 4E 4G 4c	4e 4g 4cc	.
 =	=	=
+*>A	*>A	*>A
 4AA	4a 4cc#X 4ee 4aa	ff
 8AL 8e 8g	8aL 8cc# 8ee	.
 8A 8e 8g	8aJ 8cc# 8ee	.

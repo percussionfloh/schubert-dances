@@ -13,6 +13,7 @@
 *M3/4	*M3/4	*
 *MM160	*MM160	*
 =	=	=
+*>Intro	*>Intro	*>Intro
 4C 4G 4c	4r	p
 =	=	=
 2C 2G 2c	2.r	.
@@ -28,6 +29,7 @@
 2C 2G 2c	2e 2cc 2ee	.
 4C 4G	4e 4cc 4ee	.
 =!|:	=!|:	=!|:
+*>A	*>A	*>A
 2C 2G	8eL 8cc 8ee	.
 .	8fJ 8dd 8ff	.
 .	2g^ 2ee 2gg	.
@@ -64,6 +66,7 @@
 2C 2G 2c	2.ee 2.ccc 2.eee	.
 4C 4G 4c	.	.
 =	=	=
+*>B	*>B	*>B
 2C 2G	8eeL 8gg 8eee	p
 .	8ddJ 8ff 8ddd	.
 .	2cc 2ee 2ccc	.
@@ -102,6 +105,7 @@
 2C 2G 2c	2.e 2.cc 2.ee	.
 4C 4G	.	.
 =:|!|:	=:|!|:	=:|!|:
+*>A	*>A	*>A
 2GG 2G	8dL 8b 8dd	p
 .	8eJ 8cc 8ee	.
 .	2f^ 2dd 2ff	.
@@ -157,6 +161,7 @@
 2AA 2A	2.ee 2.ccc 2.eee	.
 4AA 4A	.	.
 =	=	=
+*>B	*>B	*>B
 *A:	*A:	*
 2AA 2D 2F#X 2A	8aaL 8fff#X 8aaa	pp
 .	8gg#XJ 8eee 8ggg#X	.
@@ -202,6 +207,7 @@
 2AA 2E	2.c#X 2.a 2.cc#X	.
 4AA 4E	.	.
 =	=	=
+*>B	*>B	*>B
 *C:	*C:	*
 2FFni 2C 2Fni	8ccniL 8aa 8cccni	ff
 .	8bJ 8gg 8bb	.

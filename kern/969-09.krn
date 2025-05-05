@@ -13,6 +13,7 @@
 *M3/4	*M3/4	*
 *MM160	*MM160	*
 =	=	=
+*>A	*>A	*>A
 4AAA 4AA	4A 4a	ff
 =	=	=
 4.CC 4.C	4.c 4.cc	fz
@@ -30,6 +31,7 @@
 4FFF 4FF	4f 4a 4cc 4ff	.
 =	=	=
 2CC 2C	2e 2g 2cc 2ee	.
+*>B	*>B	*>B
 4C	4e 4cc 4ee	p
 =	=	=
 *a:	*a:	*
@@ -49,6 +51,7 @@
 4E 4B 4d	4e 4g# 4b	.
 =	=	=
 2AA 2E 2A	2c 2e 2a	.
+*>A	*>A	*>A
 4AAA 4AA	4A 4a	ff
 =	=	=
 4.CC 4.C	4.c 4.cc	fz
@@ -66,6 +69,7 @@
 4FFF 4FF	4a 4cc 4ff 4aa	.
 =	=	=
 2CC 2C	2g 2cc 2ee 2gg	.
+*>B	*>B	*>B
 4C	4g 4ee 4gg	p
 =	=	=
 *a:	*a:	*
@@ -87,6 +91,7 @@
 4AA	2a 2cc 2ee 2aa	.
 4E 4A 4c	.	.
 =!|:	=!|:	=!|:
+*>X	*>X	*>X
 4r	4a 4aa	ff
 =	=	=
 4DD 4D	4.cc 4.ccc	fz
@@ -126,6 +131,7 @@
 =	=	=
 *a:	*a:	*
 2G#X 2B 2d 2e	2ee^ 2eee	.
+*>B	*>B	*>B
 4GGG#X 4GG#X	4dd 4ee 4bb 4ddd	f
 =	=	=
 4.AAA 4.AA	4.cc 4.ee 4.aa 4.ccc	ff
@@ -144,6 +150,7 @@
 2.AAA 2.EE 2.AA	2aa 2ccc 2eee 2aaa	fz
 .	4e	.
 =	=	=
+*>Coda	*>Coda	*>Coda
 2.AAA 2.EE 2.AA	(16ddLL 16ee	fz
 .	16eJJ)	.
 .	8r	.
