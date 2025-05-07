@@ -4,12 +4,12 @@
 
 | D   | Op | Op. Title        | №  |
 |-----|----|------------------|----|
-| 696 | 77 | 12 Valses nobles | 1  |
-| 696 | 77 | 12 Valses nobles | 3  |
-| 696 | 77 | 12 Valses nobles | 4  |
-| 696 | 77 | 12 Valses nobles | 5  |
-| 696 | 77 | 12 Valses nobles | 6  |
-| 696 | 77 | 12 Valses nobles | 9  |
-| 696 | 77 | 12 Valses nobles | 10 |
-| 696 | 77 | 12 Valses nobles | 11 |
-| 696 | 77 | 12 Valses nobles | 12 |
+| 969 | 77 | 12 Valses nobles | 1  |
+| 969 | 77 | 12 Valses nobles | 3  |
+| 969 | 77 | 12 Valses nobles | 4  |
+| 969 | 77 | 12 Valses nobles | 5  |
+| 969 | 77 | 12 Valses nobles | 6  |
+| 969 | 77 | 12 Valses nobles | 9  |
+| 969 | 77 | 12 Valses nobles | 10 |
+| 969 | 77 | 12 Valses nobles | 11 |
+| 969 | 77 | 12 Valses nobles | 12 |
