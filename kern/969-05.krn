@@ -1,0 +1,188 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 969
+!!!OPR: 12 Valses nobles
+!!!OPS: 77
+!!!ONM: 5
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*a:	*a:	*
+*M3/4	*M3/4	*
+=	=	=
+*>A	*>A	*>A
+4FF 4F	4A 4a	f
+=	=	=
+2EE 2E	4B 4g#X 4b	fz
+.	8AL 8a	.
+.	8G#J 8g#	.
+4r	8AL 8a	.
+.	8BJ 8b	.
+=	=	=
+4AAA 4AA	4c 4cc	.
+4AA 4A	4c 4cc	.
+4AAA 4AA	4c 4cc	.
+=	=	=
+*C:	*C:	*
+2GGG 2GG	4d 4dd	fz
+.	8cL 8a 8cc	.
+.	8BJ 8g 8b	.
+4r	8cL 8a 8cc	.
+.	8dJ 8b 8dd	.
+=	=	=
+4CC 4C	4e 4ee	.
+4C 4c	4e 4ee	.
+4CC 4C	4e 4ee	.
+=	=	=
+*e:	*e:	*
+4EE 4E	4g 4gg	fz
+8DD#XL 8D#X	8f#XL 8ff#X	.
+8EEJ 8E	8gJ 8gg	.
+8CCL 8C	8aL 8aa	.
+8BBBJ 8BB	8bJ 8bb	.
+=	=	=
+4AAA 4AA	4cc 4ccc	.
+4AAA 4AA	4cc 4ccc	.
+4AAA 4AA	4cc 4ccc	.
+=	=	=
+4BBB 4BB	4b 4dd#X 4ff#X 4bb	.
+4BB 4F#X 4A	4b 4dd# 4ff# 4bb	.
+4BB 4F# 4A	4b 4dd# 4ff# 4bb	.
+=	=	=
+4EE	2ee 2gg 2bb 2eee	.
+4E 4G	.	.
+*>B	*>B	*>B
+*C:	*C:	*
+4r	4ee 4eee	p
+=	=	=
+4BB	4ff 4fff	.
+4G 4d 4f	8eeL 8eee	.
+.	8ddJ 8ddd	.
+4G 4d 4f	8ccL 8ccc	.
+.	8bJ 8bb	.
+=	=	=
+4D	(4a 4aa	.
+4G 4B 4f	4g) 4gg	.
+4G 4B 4f	4g 4gg	.
+=	=	=
+4C	4ee 4eee	.
+4G 4c 4e	8ddL 8ddd	.
+.	8ccJ 8ccc	.
+4G 4c 4e	8bL 8bb	.
+.	8aJ 8aa	.
+=	=	=
+4E	(4a 4aa	.
+4G 4c 4e	4g) 4gg	.
+4G 4c 4e	4g 4gg	.
+=	=	=
+4BB	8ggL 8ggg	.
+.	8ffJ 8fff	.
+4G 4d 4f	8eeL 8eee	.
+.	8ddJ 8ddd	.
+4G 4d 4f	8ccL 8ccc	.
+.	8bJ 8bb	.
+=	=	=
+4D	(4a 4aa	.
+4G 4B 4f	4g) 4gg	.
+4G 4B 4f	4g 4gg	.
+=	=	=
+4E	8gL 8gg	.
+.	8ccJ 8ccc	.
+4G 4c 4e	4ee 4eee	.
+4G 4B 4f	4dd 4ddd	.
+=	=	=
+4C	2cc 2ccc	.
+4G 4c 4e	.	.
+=:||:	=:||:	=:||:
+*>X	*>X	*>X
+*d:	*d:	*
+4GG#X 4G#X	4g#X 4gg#X	f
+=	=	=
+4AA 4A	4a 4aa	.
+8GGL 8G	8gL 8gg	.
+8FFJ 8F	8fJ 8ff	.
+8EEL 8E	8eL 8ee	.
+8DDJ 8D	8dJ 8dd	.
+=	=	=
+(4DD 4D	(4d^ 4dd	.
+4CC#X) 4C#X	4c#X) 4cc#X	.
+4CC# 4C#	4c# 4cc#	.
+=	=	=
+*	*^	*
+4AAA 4AA	2cc#X 2ee	((4b-X 4bb-X	.
+4A 4e 4g	.	4a)) 4aa	.
+4A 4e 4g	4aa	4a 4cc# 4ee	.
+=	=	=	=
+4DD 4D	(4ee 4gg	2a	.
+4A 4d 4f	4dd) 4ff	.	.
+4A 4d 4f	4dd 4ff	4a	.
+*	*v	*v	*
+=	=	=
+*C:	*C:	*
+4FF 4F	4f 4ff	.
+8EEL 8E	8eL 8ee	.
+8FFJ 8F	8fJ 8ff	.
+8EEL 8E	8eL 8ee	.
+8DDJ 8D	8dJ 8dd	.
+=	=	=
+(4CC 4C	(4c^ 4cc	.
+4BBB) 4BB	4B) 4b	.
+4BBB 4BB	4B 4b	.
+=	=	=
+(4BBB 4BB	((4dd^ 4ff#X 4ddd	.
+4AAA) 4AA	4cc)) 4ff# 4ccc	.
+4AAA 4AA	4cc 4ff# 4ccc	.
+=	=	=
+2GGG	2b 2gg 2bb	.
+*>B	*>B	*>B
+4r	4gg	p
+=	=	=
+4BB	4ff 4fff	.
+4G 4d 4f	8eeL 8eee	.
+.	8ddJ 8ddd	.
+4G 4d 4f	8ccL 8ccc	.
+.	8bJ 8bb	.
+=	=	=
+4D	(4a 4aa	.
+4G 4B 4f	4g) 4gg	.
+4G 4B 4f	4g 4gg	.
+=	=	=
+4C	4ee 4eee	.
+4G 4c 4e	8ddL 8ddd	.
+.	8ccJ 8ccc	.
+4G 4c 4e	8bL 8bb	.
+.	8aJ 8aa	.
+=	=	=
+4E	(4a 4aa	.
+4G 4c 4e	4g) 4gg	.
+4G 4c 4e	4g 4gg	.
+=	=	=
+*d:	*d:	*
+4E	4gg 4ggg	.
+4B-X 4c#X 4g	8ffL 8fff	.
+.	8eeJ 8eee	.
+4B- 4c# 4g	8ddL 8ddd	.
+.	8cc#XJ 8ccc#X	.
+=	=	=
+4F	(4cc#X 4ccc#X	.
+4A 4d 4f	4dd) 4ddd	.
+4A 4d 4f	4dd 4ddd	.
+=	=	=
+*C:	*C:	*
+4GG 4G	(4ff 4fff	.
+4G 4d 4f	4b) 4bb	.
+4G 4d 4f	4b 4bb	.
+=	=	=
+4C	2cc 2ccc	.
+4G 4c 4e	.	.
+=:|!	=:|!	=:|!
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/05/06
+!!!ENC: Arno Venter
+!!!EEV: 2025/05/07
+!!!title: @{OPR}, @{SCT} №@{ONM}
