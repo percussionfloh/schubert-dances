@@ -11,6 +11,7 @@
 | 969 | 77 | 12 Valses nobles     | 4  |
 | 969 | 77 | 12 Valses nobles     | 5  |
 | 969 | 77 | 12 Valses nobles     | 6  |
+| 969 | 77 | 12 Valses nobles     | 7  |
 | 969 | 77 | 12 Valses nobles     | 9  |
 | 969 | 77 | 12 Valses nobles     | 10 |
 | 969 | 77 | 12 Valses nobles     | 11 |
