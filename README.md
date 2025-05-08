@@ -6,6 +6,7 @@
 | D   | Op | Op. Title            | №  |
 |-----|----|----------------------|----|
 | 779 | 50 | Valses sentimentales | 1  |
+| 779 | 50 | Valses sentimentales | 2  |
 | 779 | 50 | Valses sentimentales | 4  |
 | 779 | 50 | Valses sentimentales | 13 |
 | 969 | 77 | 12 Valses nobles     | 1  |
