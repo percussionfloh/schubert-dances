@@ -1,0 +1,117 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 779
+!!!OPR: Valses sentimentales
+!!!OPS: 50
+!!!ONM: 1
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M3/4	*M3/4	*
+*MM180	*MM180	*
+=	=	=
+16r	16g	p
+4r	8gL	.
+.	8aJ	.
+=	=	=
+4C	4g	.
+4G 4c 4e	4ee 4gg	.
+4G 4c 4e	8gL	.
+.	8aJ	.
+=	=	=
+4C	4g	.
+4G 4c 4e	4ee 4gg	.
+4G 4c 4e	8ccL	.
+.	8ddJ	.
+=	=	=
+4C	8ccL	<
+.	8aa 8ccc	.
+4A 4c 4f	8aa 8ccc	.
+.	8ff	[[
+4A 4c 4f	8ff 8aa	>
+.	8dd#XJ 8ff#X	]]
+=	=	=
+4C	4..ee 4..gg	.
+4G 4c 4e	.	.
+.	16g	.
+4G 4c 4e	8gL	.
+.	8aJ	.
+=	=	=
+4C	4g	.
+4G 4c 4e	4ee 4gg	.
+4G 4c 4e	8gL	.
+.	8aJ	.
+=	=	=
+*	*^	*
+4C	8gL	2ryy	.
+.	8a	.	.
+4G 4c 4e	8b	.	.
+.	8ccJ	.	.
+4G 4c 4e	[4gg	8ddL	.
+.	.	8eeJ	.
+=	=	=	=
+4GG	4gg]	4ffn	.
+4G 4B 4f	[2gg	8ffL	.
+.	.	8eeJ	.
+4G 4B 4f	.	4dd	.
+=	=	=	=
+4C	4..gg]	4..ee	.
+8G. 8c. 8e.	.	.	.
+*	*v	*v	*
+=:|!|:	=:|!|:	=:|!|:
+16r	16r	.
+4r	8ccL	mf
+.	8ddJ	.
+=	=	=
+*	*^	*
+4A	4raa	4cc	.
+4c 4e	2aa^	8eeL	.
+.	.	8dd	.
+4c 4e	.	8cc	.
+.	.	8eeJ	.
+=	=	=	=
+4E	4raa	4b	<
+4B 4e 4g#X	2gg#X^	4ee	.
+4B 4e 4g#	.	4b	[[
+=	=	=	=
+4C	4raa	4b-X	>
+4B-X 4c 4e	2ggn	8eeL	.
+.	.	8dd	.
+4B- 4c 4e	.	8cc	.
+.	.	8b-J	]]
+=	=	=	=
+4F	4raa	4a	.
+4A 4c 4f	4aa^	4ff	.
+4A 4c 4f	4cc	4a	.
+*	*v	*v	*
+=	=	=
+4GG	4b 4dd	p
+4G 4Bn 4f	8ffL 8aa	.
+.	8ee 8gg	.
+4G 4B 4f	8dd 8ff	.
+.	8eeJ 8gg	.
+=	=	=
+4C	(4cc 4ee	.
+4G 4c 4e	4gg^ 4ccc	.
+4G 4c 4e	4cc) 4ee	.
+=	=	=
+4GG	4dd 4ff	.
+4G 4B 4f	8ffL 8aa	.
+.	8ee 8gg	.
+4G 4B 4f	8dd 8ff	.
+.	8eeJ 8gg	.
+=	=	=
+4C	4..cc 4..ee	.
+8.G 8.c 8.e	.	.
+=:|!	=:|!	=:|!
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/05/08
+!!!ENC: Leon Sundermeyer
+!!!EEV: 2025/05/08
+!!!title: @{OPR}, @{SCT} №@{ONM}
