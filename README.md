@@ -1,5 +1,6 @@
 # Schubert dances
 
+* D. 779 https://imslp.org/wiki/Special:ReverseLookup/53696
 * D. 969 https://imslp.org/wiki/Special:ReverseLookup/53698
 
 | D   | Op | Op. Title            | №  |
