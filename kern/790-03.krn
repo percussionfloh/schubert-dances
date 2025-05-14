@@ -1,0 +1,142 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 790
+!!!OPR: 12 Deutsche Tänze
+!!!OPS: 171
+!!!ONM: 3
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M3/4	*M3/4	*
+*MM160	*MM160	*
+=	=	=
+*e:	*e:	*
+16r	16a	p
+=	=	=
+4D#X	(4.a	>
+4A 4cn 4f#	.	]
+.	8ccnL	<
+4A 4c 4f#	8dd#X	.
+.	8ff#J	[[
+=	=	=
+4E	4.aa	>
+4G 4B 4e	.	]]
+.	8ggL	.
+4G 4B 4e	8ee	.
+.	8bJ)	.
+=	=	=
+*D:	*D:	*
+*	*^	*
+4AA	4r	8b-XL	.
+.	.	8aJ	.
+4A 4c# 4g	2cc#^ 2ee	8bnL	.
+.	.	8a	.
+4A 4c# 4g	.	8g#X	.
+.	.	8aJ	.
+=	=	=	=
+4D	(2cc#^ 2ee#X	[2a	.
+4A 4d 4f#	.	.	.
+4A 4d 4f#	8.ddL) 8.ff#	8.aL]	.
+.	16aJk	16aJk	.
+*	*v	*v	*
+=	=	=
+*e:	*e:	*
+4D#X	(4.a	.
+4A 4cn 4f#	.	.
+.	8ccnL	.
+4A 4c 4f#	8dd#X	.
+.	8ff#J	.
+=	=	=
+4E	4.aa^	.
+4G 4B 4e	.	.
+.	8ggL	.
+4G 4B 4e	8ee	.
+.	8bJ)	.
+=	=	=
+*D:	*D:	*
+*	*^	*
+4AA	4r	8b-XL	.
+.	.	8aJ	.
+4A 4c# 4g	(2cc#^ 2ee	8bnL	.
+.	.	8a	.
+4A 4c# 4g	.	8g#X	.
+.	.	8aJ	.
+=	=	=	=
+4D	2dd)	2f#	.
+4F# 4d	.	.	.
+*	*v	*v	*
+8.r	8.r	.
+=:|!|:	=:|!|:	=:|!|:
+*B:	*B:	*
+16r	16ff#	.
+*clefG2	*	*
+=	=	=
+4A#X	(8ff#L	.
+.	8ee#X	.
+4e 4f# 4cc#	8gg	.
+.	8ff#	.
+4e 4f# 4cc#	8ee#	.
+.	8ff#J)	.
+=	=	=
+*e:	*e:	*
+.	(16qqff#/	.
+4Ani	(4.ccc#^)	.
+4d#X 4f# 4b	.	.
+.	8bbL	.
+4d# 4f# 4b	8ff#	.
+.	8dd#XJ)	.
+=	=	=
+*A:	*A:	*
+4G#X	(8eeL	.
+.	8dd#X	.
+4dni 4e 4b	8ff#	.
+.	8ee	.
+4d 4e 4b	8dd#	.
+.	8eeJ)	.
+=	=	=
+*D:	*D:	*
+.	(16qqee/	.
+4Gni	(4.bb^)	.
+4c# 4e 4a	.	.
+.	8aaL	.
+4c# 4e 4a	8ee	.
+.	8cc#J)	.
+*clefF4	*	*
+=	=	=
+4F#	(8ddL	.
+.	8cc#	.
+4A 4d 4f#	8ee	.
+.	8dd	.
+4A 4d 4f#	8cc#	.
+.	8ddJ)	.
+=	=	=
+*e:	*e:	*
+.	(16qqa/	.
+4D#X	(4.aa^)	.
+4A 4cn 4f#	.	.
+.	8ff#L	.
+4A 4c 4f#	8dd#X	.
+.	8ccnJ)	.
+=	=	=
+4E	(8bL	.
+.	8dd#X	.
+4G 4B 4e	8ee	.
+.	8ff#	.
+*D:	*D:	*
+((4A^ 4e 4g	8gg^	.
+.	8cc#XiJ)	.
+=	=	=
+2d)) 2f#	2ddni	.
+8.r	8.r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/05/14
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2025/05/14
+!!!title: @{OPR}, @{SCT} №@{ONM}
