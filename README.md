@@ -10,6 +10,8 @@
 | 779 | 50  | Valses sentimentales | 2  |
 | 779 | 50  | Valses sentimentales | 4  |
 | 779 | 50  | Valses sentimentales | 13 |
+| 790 | 171 | 12 Deutsche Tänze    | 1  |
+| 790 | 171 | 12 Deutsche Tänze    | 2  |
 | 790 | 171 | 12 Deutsche Tänze    | 3  |
 | 969 | 77  | 12 Valses nobles     | 1  |
 | 969 | 77  | 12 Valses nobles     | 3  |

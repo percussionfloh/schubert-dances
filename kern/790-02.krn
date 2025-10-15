@@ -1,0 +1,155 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 790
+!!!OPR: 12 Deutsche Tänze
+!!!OPS: 171
+!!!ONM: 2
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]
+*clefF4	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*M3/4	*M3/4	*
+*MM160	*MM160	*
+=1	=1	=1
+*>A	*>A	*>A
+4EE 4E	4e	ff
+4EE 4E	4e	.
+4EE 4E	4e	.
+=	=	=
+4.AA 4.A	4.a	fz
+8EE 8E	8e	.
+4EE 4E	4e	.
+=	=	=
+4CC# 4C#	4c#	.
+4DD 4D	4d	.
+4EE 4E	4e	.
+=	=	=
+2.FF# 2.F#	2.f#	.
+=	=	=
+4FF# 4F#	4f# 4a 4cc#	.
+4FF# 4F#	4f# 4a 4cc#	.
+4FF# 4F#	4f# 4a 4cc#	.
+=	=	=
+4.CC# 4.C#	4.f# 4.a 4.ff#	fz
+8FF# 8F#	8f# 8a 8cc#	.
+4FF# 4F#	4f# 4a 4cc#	.
+=	=	=
+.	16qqee/	.
+4BBB 4BB	4f# 4a 4dd	.
+4CC# 4C#	4f# 4a 4cc#	.
+4CC# 4C#	4e#X 4g# 4cc#	.
+=	=	=
+2.FF# 2.F#	2.f# 2.a 2.cc#	.
+=:|!|:	=:|!|:	=:|!|:
+*>B	*>B	*>B
+4BBB#X 4BB#X	4f#' 4a 4dd#X	pp
+4GG# 4G#	4f#' 4g# 4dd#	.
+4BB# 4B#X	4f#' 4g# 4dd#	.
+=	=	=
+.	16qqff#/	.
+4C# 4c#	4ee'	.
+4CC# 4C#	4e 4g# 4cc#	.
+4GGG# 4GG#	4e 4g# 4cc#	.
+=	=	=
+.	16qqee/	.
+4BB#X 4B#X	4dd#X'	.
+4BBB#X 4BB#	4d#X 4f# 4g#	.
+4GGG# 4GG#	4d# 4f# 4g#	.
+=	=	=
+*	*^	*
+4CC# 4C#	8g#L	2.e 2.g#	.
+.	8b#XJ	.	.
+4GG# 4G#	8cc#L	.	.
+.	8dd#XJ	.	.
+4C# 4c#	4cc#	.	.
+*	*v	*v	*
+=	=	=
+4AAA#X 4AA#X	4e 4gn 4cc#	.
+4FF# 4F#	4e 4f# 4cc#	.
+4AA# 4A#X	4e 4f# 4cc#	.
+=	=	=
+.	16qqee/	.
+4BB 4B	4dd#X'	.
+4BBB 4BB	4d#X 4f# 4b	.
+4FFF# 4FF#	4d# 4f# 4b	.
+=	=	=
+.	16qqdd#X/	.
+4AA#X 4A#X	4cc#'	.
+4AAA#X 4AA#	4e 4f#	.
+4FFF# 4FF#	4e 4f#	.
+=	=	=
+*	*^	*
+4BBB 4BB	8d#XL	2.d# 2.f#	.
+.	8a#XJ	.	.
+4FF# 4F#	8bL	.	.
+.	8cc#J	.	.
+4BB 4B	4b	.	.
+*	*v	*v	*
+=	=	=
+4GGGn 4GGn	4d 4b	f
+4GG 4Gn	4d 4b 4dd	.
+4FF# 4F#	4d 4b 4dd	.
+=	=	=
+*	*^	*
+4EE#X 4E#X	8cc#L	2cc#	.
+.	8gg#J	.	.
+4CC# 4C#	8bbL	.	.
+.	8bb#XJ	.	.
+*	*v	*v	*
+4EEE#X 4EE#	4cc# 4gg# 4ccc#	.
+=	=	=
+!	!LO:TX:b:i:t=cresc.	!
+.	16qqddd/	.
+4FFF# 4FF#	8ccc#	.
+.	8r	.
+4AAA 4AA	4ff# 4aa	.
+4CC# 4C#	4ff# 4aa	.
+=	=	=
+.	16qqccc#/	.
+4GGG# 4GG#	8bb	.
+.	8r	.
+4CC# 4C#	4cc# 4gg#	.
+4EE#X 4E#X	4cc# 4gg#	.
+=	=	=
+.	16qqbb/	p
+4CC#	8aa	.
+.	8r	.
+4C# 4E 4A	4a 4ee	.
+4C# 4E 4A	4a 4ee	.
+=	=	=
+.	16qqaa/	.
+4DD	8gg#	.
+.	8r	.
+4D 4F# 4A	4a 4ff#	.
+4D 4F# 4A	4a 4ff#	.
+=	=	=
+.	16qqgg#/	.
+4EE	8ff#	.
+.	8r	.
+4E 4B 4d	4g# 4ee	.
+4E 4B 4d	4g# 4ee	.
+=	=	=
+*>B1	*>B1	*>B1
+4A	8eL 8cc#	.
+.	8aJ	.
+4E	8eL	.
+.	8c#J	.
+4AA	4A	.
+=:|!	=:|!	=:|!
+*>B2	*>B2	*>B2
+4A	8eL 8cc#	.
+.	8aJ	.
+4E	8eL	.
+.	8c#J	.
+4AA	4A	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/10/15
+!!!ENC: Florian Moldaschl
+!!!EEV: 2025/10/15
+!!!title: @{OPR}, @{SCT} №@{ONM}

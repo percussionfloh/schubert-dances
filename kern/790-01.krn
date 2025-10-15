@@ -1,0 +1,317 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 790
+!!!OPR: 12 Deutsche Tänze
+!!!OPS: 171
+!!!ONM: 1
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*M3/4	*M3/4	*
+*MM160	*MM160	*
+=1	=1	=1
+*>A	*>A	*>A
+*^	*^	*
+!	!	!LO:TX:b:i:t=legato	!	!
+4F#	[2.D	(2dd^	2.d 2.f#	p
+4A	.	.	.	.
+4d	.	8cc#L	.	.
+.	.	8bJ)	.	.
+*	*	*v	*v	*
+=	=	=	=
+4e	2.D]	(4g' 4a	.
+4c#	.	4g' 4a	.
+4A	.	4g') 4a	.
+*v	*v	*	*
+=	=	=
+*	*^	*
+(4D	(2f#^	2.A 2.d 2.a	.
+4AA	.	.	.
+4FF#)	8eL	.	.
+.	8dJ)	.	.
+*	*v	*v	*
+=	=	=
+(4EE	(4A' 4c# 4g 4a	.
+4CC#	4A' 4c# 4g 4a	.
+4AAA)	4A') 4c# 4g 4a	.
+=	=	=
+*^	*^	*
+4F#	[2.D	(2dd	2.d 2.f#	.
+4A	.	.	.	.
+4d	.	8cc#L	.	.
+.	.	8bJ)	.	.
+*	*	*v	*v	*
+=	=	=	=
+4e	2.D]	(4g' 4a	.
+4c#	.	4g' 4a	.
+4A	.	4g') 4a	.
+*v	*v	*	*
+=	=	=
+*	*^	*
+(4D	(2f#	2.A 2.d 2.a	.
+4AA	.	.	.
+4FF#)	8eL	.	.
+.	8dJ)	.	.
+*	*v	*v	*
+=	=	=
+(4EE	(4A' 4c# 4g 4a	.
+4CC#	4A' 4c# 4g 4a	.
+4AAA)	4A') 4c# 4g 4a	.
+=	=	=
+*^	*^	*
+4F#	[2.D	(2ff#	2.f# 2.dd	.
+4A	.	.	.	.
+4d	.	8eeL	.	.
+.	.	8ddJ)	.	.
+*	*	*v	*v	*
+=	=	=	=
+4e	2.D]	4g 4a#X 4cc#	.
+4c#	.	4g 4a# 4cc#	.
+4A#X	.	4g 4a# 4cc#	.
+*v	*v	*	*
+=	=	=
+*	*^	*
+4DD	(4.ee	2.f# 2.b	.
+4BBB	.	.	.
+.	8dd	.	.
+4DD	8cc#L	.	.
+.	8bJ)	.	.
+*	*v	*v	*
+=	=	=
+4EE	4e 4g#X 4b	.
+4GG#X	4d 4e 4b	.
+4EE	4d 4g# 4cc#	.
+=	=	=
+*	*^	*
+4AAA	2.a	4c#	.
+4CC#	.	4e	.
+4AAA	.	4c#	.
+*	*v	*v	*
+=	=	=
+4AA	(4c#' 4a	.
+4C#	4e' 4a	.
+4AA	4c#'^) 4b	.
+=	=	=
+4BB	(4d' 4a	.
+4D	4g' 4a	.
+4BB	4d'^) 4b	.
+=	=	=
+4C#	(4e 4a	.
+4E	4g 4a	.
+*	*^	*
+4C#	8b^L)	4e	.
+.	8aJ	.	.
+=||	=||	=||	=||
+*^	*	*	*
+4F#	[2.D	(2dd^	2.d 2.f#	p
+4A	.	.	.	.
+4d	.	8cc#L	.	.
+.	.	8bJ)	.	.
+*	*	*v	*v	*
+=	=	=	=
+4e	2.D]	(4g' 4a	.
+4c#	.	4g' 4a	.
+4A	.	4g') 4a	.
+*v	*v	*	*
+=	=	=
+*	*^	*
+(4D	(2f#^	2.A 2.d 2.a	.
+4AA	.	.	.
+4FF#)	8eL	.	.
+.	8dJ)	.	.
+*	*v	*v	*
+=	=	=
+(4EE	(4A' 4c# 4g 4a	.
+4CC#	4A' 4c# 4g 4a	.
+4AAA)	4A') 4c# 4g 4a	.
+=	=	=
+*^	*^	*
+4F#	[2.D	(2dd	2.d 2.f#	.
+4A	.	.	.	.
+4d	.	8cc#L	.	.
+.	.	8bJ)	.	.
+*	*	*v	*v	*
+=	=	=	=
+4e	2.D]	(4g' 4a	.
+4c#	.	4g' 4a	.
+4A	.	4g') 4a	.
+*v	*v	*	*
+=	=	=
+*	*^	*
+(4D	(2f#	2.A 2.d 2.a	.
+4AA	.	.	.
+4FF#)	8eL	.	.
+.	8dJ)	.	.
+*	*v	*v	*
+=	=	=
+(4EE	(4A' 4c# 4g 4a	.
+4CC#	4A' 4c# 4g 4a	.
+4AAA)	4A') 4c# 4g 4a	.
+=	=	=
+*^	*^	*
+4F#	[2.D	(2ff#	2.f# 2.dd	.
+4A	.	.	.	.
+4d	.	8eeL	.	.
+.	.	8ddJ)	.	.
+*	*	*v	*v	*
+=	=	=	=
+4e	2.D]	4g 4a#X 4cc#	.
+4c#	.	4g 4a# 4cc#	.
+4A#X	.	4g 4a# 4cc#	.
+*v	*v	*	*
+=	=	=
+*	*^	*
+4DD	(4.ee	2.f# 2.b	.
+4BBB	.	.	.
+.	8dd	.	.
+4DD	8cc#L	.	.
+.	8bJ)	.	.
+*	*v	*v	*
+=	=	=
+4EE	4e 4g#X 4b	.
+4GG#X	4d 4e 4b	.
+4EE	4d 4g# 4cc#	.
+=	=	=
+*	*^	*
+4AAA	2.a	4c#	.
+4CC#	.	4e	.
+4AAA	.	4c#	.
+*	*v	*v	*
+=	=	=
+4AAA 4AA	4A 4a	.
+4CC# 4AA	4c# 4a	.
+4AAA 4AA	4A 4a	.
+=	=	=
+4BBB 4AA	4B 4a	<
+4DD 4AA	4d 4a	.
+4BBB 4AA	4B 4a	.
+=	=	=
+4CCn 4AA	4cn 4a	.
+4EE 4AA	4e 4a	.
+4CC 4Cn	4B-X 4e 4g	.
+=!|:	=!|:	=!|:
+*>B	*>B	*>B
+*	*^	*
+[2.FFFn [2.FFn	(2a^	2.cn 2.fn	fz
+.	8b-XL	.	.
+.	8aJ	.	.
+*	*v	*v	*
+=	=	=
+4FFF] 4FF]	4B-X) 4d-X 4e 4g	.
+4BBB-X' 4BB-X	(4B-' 4d- 4e 4g	.
+4DD-X' 4D-X	4B-') 4d- 4e 4g	.
+=	=	=
+*	*^	*
+[2.FFFn [2.FFn	(2a^	2.cn 2.fn	fz
+.	8b-XL	.	.
+.	8aJ	.	.
+*	*v	*v	*
+=	=	=
+4FFF] 4FF]	4B-X) 4d-X 4e 4g	.
+4BBB-X' 4BB-X	(4B-' 4d- 4e 4g	.
+4DD-X' 4D-X	4B-') 4d- 4e 4g	.
+=	=	=
+*	*^	*
+2.FFFn 2.FFn	(2a	2.cn 2.fn	fp
+.	8b-XL	.	.
+.	8aJ	.	.
+*	*v	*v	*
+=	=	=
+(4EE	4cn) 4g 4ccn	.
+4E)	(4c' 4g 4cc	.
+4G'	4c') 4g 4cc	.
+=	=	=
+*	*^	*
+(4DD	(4ccn	2cn^ 2fn	.
+4D)	4dd)	.	.
+4Fn'	4b-X'	4B-X 4f	.
+=	=	=	=
+(4CCn	(4b-X	2B-X^ 2e	.
+4Cn)	4ccn)	.	.
+4E'	4a'	4A 4e	.
+=	=	=	=
+*	*	*^	*
+(4BBB-X	(4a	2d	(4A\	.
+4BB-X)	4b-X)	.	4B-X\)	.
+*	*	*v	*v	*
+4CCn' 4Cn	4g'	4B- 4e	.
+=	=	=	=
+2.FFn 2.Cn	(4.fn	2.A	.
+.	8e	.	.
+.	8fL	.	.
+.	8gJ)	.	.
+=	=	=	=
+4AAA	(2a^	2.A 2.c# 2.g	pp
+*^	*	*	*
+(4AA	2AA	.	.	.
+4E)	.	8b-XL	.	.
+.	.	8aJ)	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=	=	=
+4AAA	(4A' 4c# 4g 4a	.
+*^	*	*
+(4AA	2AA	4A' 4c# 4g 4a	.
+4E)	.	4A') 4c# 4g 4a	.
+*v	*v	*	*
+=	=	=
+*	*^	*
+4AAA	(2a^	2.A 2.d 2.f#	.
+*^	*	*	*
+(4AA	2AA	.	.	.
+4F#)	.	8bL	.	.
+.	.	8aJ)	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=	=	=
+4AAA	(4A' 4d 4f# 4a	.
+*^	*	*
+(4AA	2AA	4A' 4d 4f# 4a	.
+4F#)	.	4A') 4d 4f# 4a	.
+*v	*v	*	*
+=	=	=
+*	*^	*
+2FFF# 2FF#	(2a#X	2e	<
+8GGGL 8GG	8bL	4e	.
+8FFF#J 8FF#	8a#J)	.	.
+*	*v	*v	*
+=	=	=
+4FFF# 4FF#	4e 4a#X	.
+4FFF# 4FF#	4e 4a#	.
+4FFF# 4FF#	4e 4a#	.
+=	=	=
+4GGG 4GG	(4d 4b	.
+4GGG#X 4GG#X	4d 4dd	.
+4AAA 4AA	4d) 4f#	.
+=	=	=
+4AAA#X 4AA#X	(4d 4g	.
+4BBB 4BB	4d 4g#X	.
+4CCn 4Cn	4d) 4f# 4ani	.
+=	=	=
+4BBB 4BB	4d#X 4f# 4b	fz
+*	*^	*
+4EE	8aL	4B 4e	>
+.	8gniJ	.	.
+4AAA 4AA	8f#L	4G 4c#Xi	] p
+.	8eJ	.	.
+*	*v	*v	*
+=	=	=
+*>B1	*>B1	*>B1
+2DD 2AA	2F# 2d	.
+4r	4a	.
+=:|!	=:|!	=:|!
+*>B2	*>B2	*>B2
+2DD 2AA	2F# 2d	.
+4r	4r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/10/15
+!!!ENC: Florian Moldaschl
+!!!EEV: 2025/10/15
+!!!title: @{OPR}, @{SCT} №@{ONM}
