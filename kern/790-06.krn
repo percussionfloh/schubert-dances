@@ -1,0 +1,153 @@
+!!!COM: Komponist / Arrangeur
+!!!OTL: Schubert 790 6
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Klavier	*	*
+*I'Klav.	*	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*
+*M3/4	*M3/4	*
+=1	=1	=1
+*	*^	*
+[4d#	4dd#	[4dd#	.
+=!|:	=!|:	=!|:	=!|:
+*^	*	*	*
+4d#]	2.E	2.gg#	4dd#]	.
+4B	.	.	4b	.
+4c#	.	.	4cc#	.
+=	=	=	=	=
+2.d#	2.D#	(2gg#^	2.a# 2.dd#	.
+.	.	4ff##X)	.	.
+=	=	=	=	=
+4d#	2.G#	(4dd#	2.an 2.ff#	.
+4B#X	.	4b#X	.	.
+4c#	.	4cc#)	.	.
+=	=	=	=	=
+2d#	2.C# 2.G#	(2dd#^ 2ff#	2.g#	.
+4c#	.	4cc#) 4ee	.	.
+*	*	*v	*v	*
+=	=	=	=
+4r	2.F##X	(8a#L	.
+.	.	8eeJ)	.
+4A# 4c# 4e	.	(8eeL	.
+.	.	8dd#J)	.
+4A# 4c# 4e	.	(8dd#L	.
+.	.	8cc#J)	.
+!!linebreak:original
+=	=	=	=
+!	!	!LO:TX:b:i:t=cresc.	!
+4r	2.G#	(8cc#L	.
+.	.	8bJ)	.
+4B 4d#	.	(8bL	.
+.	.	8a#J)	.
+4B 4d#	.	(8a#L	.
+.	.	8g#J)	.
+=	=	=	=
+4r	2C#	(8g#L	.
+.	.	8f#J)	.
+4G# 4B	.	(8f#L	.
+.	.	8eJ)	.
+4G# 4B	4C##X	(8eL	.
+.	.	8d#J)	.
+*v	*v	*	*
+=	=	=
+*	*^	*
+2D# 2F##X 2A#	2d#	2d#	fp
+4d#	4dd#	4dd#	.
+=:|!	=:|!	=:|!	=:|!
+2D# 2F##X 2A#	2d#	2d#	fp
+[4D# [4d#	4r	4r	.
+*	*v	*v	*
+=	=	=
+4D#] 4d#]	2.b 2.dd# 2.gg# 2.bb	f
+4BB 4B	.	.
+4C# 4c#	.	.
+=	=	=
+*	*^	*
+[2.D# [2.d#	(2gg#	2.a# 2.dd# 2.aa#	fz
+.	4ff##X)	.	.
+*	*v	*v	*
+!!linebreak:original
+=	=	=
+4D#] 4d#]	2.an 2.b#X 2.dd# 2.ff# 2.aan	fz
+4BB#X 4B#X	.	.
+4GG# 4G#	.	.
+=	=	=
+*	*^	*
+[2.C# [2.c#	(2ff#	2.g# 2.cc# 2.gg#	fz
+.	4ee#X)	.	.
+*	*v	*v	*
+=	=	=
+4C#] 4c#]	2.gn 2.a# 2.cc# 2.ee 2.ggn	fz
+4AA# 4A#	.	.
+4FF# 4F#	.	.
+=	=	=
+*	*^	*
+2BB 2B	(4ee	2f# 2b 2ff#	fz
+.	4dd#	.	.
+4C# 4c#	4ee)	4e 4g#	.
+=	=	=	=
+2D# 2d#	(4cc#	2d# 2g# 2dd#	fz
+.	4b)	.	.
+4E 4e	4g# 4a# 4cc#	4c#	.
+=	=	=	=
+2.D# 2.d#	(2g#	2.d# 2.a# 2.dd#	fz
+.	4f##X)	.	.
+=	=	=	=
+4FFF##X 4FF##X	(8a#L	4d#	p
+.	8eeJ)	.	.
+4AAA# 4AA#	(8eeL	4d#	.
+.	8dd#J)	.	.
+4DD# 4D#	(8dd#L	4d#	.
+.	8cc#J)	.	.
+!!linebreak:original
+=	=	=	=
+4GGG# 4GG#	(8cc#L	4e	.
+.	8bJ)	.	.
+4BBB 4BB	(8bL	4e	.
+.	8a#J)	.	.
+4EE 4E	(8a#L	4e	.
+.	8g#J)	.	.
+=	=	=	=
+4AAA# 4AA#	(8cc#L	4e	.
+.	8bJ)	.	.
+4CC# 4C#	(8a#L	4e	.
+.	8g#J)	.	.
+4FF# 4F#	(8f#L	4c#	.
+.	8eJ)	.	.
+=	=	=	=
+4BBB 4BB	(8d#L	4B	.
+.	8eJ)	.	.
+4DD# 4D#	(8f#L	4B 4d#	.
+.	8g#J)	.	.
+4FF# 4F#	4f#	4B 4d#	.
+=	=	=	=
+4FF##X 4F##X	(8aa#L	4dd#	f
+.	8eeeJ)	.	.
+4AA# 4A#	(8eeeL	4dd#	.
+.	8ddd#J)	.	.
+4D# 4d#	(8ddd#L	4dd#	.
+.	8ccc#J)	.	.
+=	=	=	=
+4GG# 4G#	(8ccc#L	4dd#	.
+.	8bbJ)	.	.
+4BB 4B	(8bbL	4dd#	.
+.	8aa#J)	.	.
+4D# 4d#	(8aa#L	4dd#	.
+.	8gg#J)	.	.
+!!linebreak:original
+=	=	=	=
+4C# 4c#	(8aa#L	4ee	.
+.	8ccc#J)	.	.
+4AA# 4A#	(8aa#L	4ee	.
+.	8ccc#J)	.	.
+4D# 4d#	(8bbL	4cc# 4ff##X	.
+.	8aa#J)	.	.
+=	=	=	=
+2GG# 2G#	2gg#	2b 2dd#	.
+4r	4r	4r	.
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
