@@ -1,13 +1,17 @@
-!!!COM: Komponist / Arrangeur
-!!!OTL: Schubert 790 6
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 790
+!!!OPR: 12 Deutsche Tänze
+!!!OPS: 171
+!!!ONM: 6
 **kern	**kern	**dynam
 *part1	*part1	*part1
 *staff2	*staff1	*
-*I"Klavier	*	*
-*I'Klav.	*	*
 *clefF4	*clefG2	*
 *k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*
+*g#:	*g#:	*
 *M3/4	*M3/4	*
+*MM160	*MM160	*
 =1	=1	=1
 *	*^	*
 [4d#	4dd#	[4dd#	.
@@ -151,3 +155,9 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(s1,s2)}
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/10/29
+!!!ENC: Florian Moldaschl
+!!!EEV: 2025/10/29
+!!!title: @{OPR}, @{SCT} №@{ONM}
