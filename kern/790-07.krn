@@ -1,0 +1,197 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 790
+!!!OPR: 12 Deutsche Tänze
+!!!OPS: 171
+!!!ONM: 7
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Klavier	*	*
+*I'Klav.	*	*
+*clefF4	*clefG2	*
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*M3/4	*M3/4	*
+=1	=1	=1
+*	*^	*
+!	!LO:TX:b:i:t=col pedale	!	!
+*A-:	*A-:	*A-:	*
+4AA-'	12ccL	(4a-	p fp
+.	12dd-	.	.
+.	(12ccJ	.	.
+=	=	=	=
+4AA-'	(2.b-^)	[2.g)	.
+4E-'	.	.	.
+4d-'	.	.	.
+=	=	=	=
+4AA-'	2ee-)	2g]	.
+4E-'	.	.	.
+4d-'	12b-L	(4g	.
+.	12cc	.	.
+.	(12b-J	.	.
+=	=	=	=
+4AA-'	(2.cc^)	(2.a-)	.
+4E-'	.	.	.
+4c'	.	.	.
+=	=	=	=
+4AA-'	2a-)	2c)	.
+4E-'	.	.	.
+4c'	4a- 4cc	4e-	.
+*	*v	*v	*
+=	=	=
+4AA-'	(2e-' 2a- 2cc	<
+4E-'	.	.
+4c'	4e-') 4a- 4cc	.
+=	=	=
+*d-:	*d-:	*
+4AA-	(2g-X' 2a- 2ee-	[ >
+4c	.	.
+4d-	4f') 4a- 4dd-	.
+!!linebreak:original
+=	=	=
+*A-:	*A-:	*A-:
+4AA-	(2e-' 2a- 2cc	]
+4A-	.	.
+4E-	4e-') 4g 4b-	.
+=	=	=
+*	*^	*
+4AA-	2e- 2cc	2a-	.
+4E-	.	.	.
+4AA-	(12ccL	4a-	fp
+.	12dd-	.	.
+.	12ccJ	.	.
+=	=	=	=
+4AA-'	2b-^)	[2.g [2.b-	.
+4E-'	.	.	.
+4d-'	(12ddnL	.	.
+.	12ee-	.	.
+.	12ffJ	.	.
+=	=	=	=
+4AA-'	2ee-)	2g] 2b-]	.
+4E-'	.	.	.
+4d-'	(12b-L	(4g	.
+.	12cc	.	.
+.	12b-J	.	.
+=	=	=	=
+4AA-'	2a-^)	2.a-) 2.cc	.
+4E-'	.	.	.
+4c'	(12dnL	.	.
+.	12e-	.	.
+.	12fJ	.	.
+*	*v	*v	*
+=	=	=
+4AA-	2c) 2e- 2a-	.
+4E-	.	.
+*	*clefF4	*
+4r	4E- 4A- 4c	pp
+!!linebreak:original
+=	=	=
+4AAA-	(2E-' 2A- 2c	.
+4AA-	.	.
+4r	4E-') 4A- 4c	.
+=	=	=
+*F:	*F:	*
+4AAAn	(2G-X'^ 2c 2e-	.
+4AAn	.	.
+4BB-	4F') 4B- 4d-	.
+=	=	=
+4FFF	(2F' 2An 2c	.
+4FF	.	.
+4r	4F') 4G 4B-	.
+=	=	=
+4FFF	2F 2An 2c	.
+4FF	.	.
+*	*clefG2	*
+=:|!|:	=:|!|:	=:|!|:
+*	*^	*
+4FF	12ccL	4f 4an	f
+.	12dd-	.	.
+.	12ccJ	.	.
+=	=	=	=
+4FF	2.cc^	2.f 2.an	.
+4F	.	.	.
+4c	.	.	.
+=	=	=	=
+4FF	2ff	2f 2an	.
+4F	.	.	.
+4c	12ccL	4f 4a	.
+.	12dd-	.	.
+.	12ccJ	.	.
+*	*v	*v	*
+!!linebreak:original
+=	=	=
+*d-:	*d-:	*
+4DD-	2.f 2.a- 2.dd-	fz
+4D-	.	.
+4A-	.	.
+=	=	=
+4DD-	2f 2a- 2ff	.
+4D-	.	.
+4A-	4f 4a- 4dd-	.
+=	=	=
+*A-:	*A-:	*
+4CC-X 4C-X	2g-X 2cc-X 2ee-	<
+4G-X	.	.
+4c-X	4g- 4cc- 4ee-	.
+=	=	=
+4BBB- 4BB-	2e- 2g 2dd- 2ee-	.
+4E-	.	.
+4B-	4e- 4g 4dd- 4ee-	.
+=	=	=
+4AAA- 4AA-	2.e- 2.a- 2.cc 2.ee-	[ sffz >
+4E-	.	.
+4A-	.	.
+=	=	=
+*	*^	*
+4AA-	2cc 2aa-	2a-	]
+4E-	.	.	.
+4AA-	12ccL	4a-	.
+.	12dd-	.	.
+.	12ccJ	.	.
+=	=	=	=
+4AA-	(2.b-^	[2.g	.
+4E-	.	.	.
+4d-	.	.	.
+!!linebreak:original
+=	=	=	=
+4AA-	2ee-)	2g]	.
+4E-	.	.	.
+4d-	12b-L	4g	.
+.	12cc	.	.
+.	12b-J	.	.
+=	=	=	=
+4AA-	(2.cc^	(2.a-	.
+4E-	.	.	.
+4c	.	.	.
+=	=	=	=
+4AA-	2a-)	2c)	.
+4E-	.	.	.
+*	*clefF4	*	*
+4r	4A- 4c	4E-	p
+*	*v	*v	*
+=	=	=
+4AAA-	(2E-' 2A- 2c	<
+4AA-	.	.
+4r	4E-') 4A- 4c	.
+=	=	=
+*d-:	*d-:	*
+4CC	(2G-X' 2A- 2e-	[ >
+4C	.	.
+4D-	4F') 4A- 4d-	.
+=	=	=
+*A-:	*A-:	*
+4AAA-	(2E-' 2A- 2c	]
+4AA-	.	.
+4EE-	4E-') 4G 4B-	.
+=	=	=
+4AAA-	2E- 2A- 2c	.
+4AA-	.	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/10/15
+!!!ENC: Florian Moldaschl
+!!!EEV: 2025/10/15
+!!!title: @{OPR}, @{SCT} №@{ONM}
