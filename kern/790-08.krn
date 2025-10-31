@@ -1,0 +1,292 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 790
+!!!OPR: 12 Deutsche Tänze
+!!!OPS: 171
+!!!ONM: 8
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Klavier	*	*
+*I'Klav.	*	*
+*clefF4	*clefG2	*
+*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*
+*M3/4	*M3/4	*
+*a-:	*a-:	*
+=1	=1	=1
+4r	(4cc-M	pp
+=	=	=
+4E-	(4b-)	.
+*clefG2	*	*
+4B- 4e- 4gn	4ee-	.
+4B-^ 4f- 4a-	4ddn^	.
+*clefF4	*	*
+=	=	=
+4E-	4.ee-	.
+*clefG2	*	*
+4B- 4e- 4gn	.	.
+.	8dd-	.
+4B- 4e- 4g	8cc-L	.
+.	8b-J)	.
+*clefF4	*	*
+=	=	=
+4A-	(4cc-	.
+4A- 4c- 4e-	4a-	.
+4A- 4B- 4f-	4gn^	.
+=	=	=
+4AA-	2a-)	.
+4A- 4c- 4e-	.	.
+4A- 4c- 4e-	(4cc-M	.
+=	=	=
+4E-	(4b-)	.
+*clefG2	*	*
+4B- 4e- 4gn	4ee-	.
+4B-^ 4f- 4a-	4ddn^	.
+!!linebreak:original
+*clefF4	*	*
+=	=	=
+4E-	4.ee-	.
+*clefG2	*	*
+4B- 4e- 4gn	.	.
+.	8dd-	.
+4B- 4e- 4g	8cc-L	.
+.	8b-J	.
+*clefF4	*	*
+=	=	=
+4AA-	(4cc-)	.
+4A- 4c- 4e-	4ee-	.
+4A- 4B- 4e- 4gn	4ggn	.
+=	=	=
+2A- 2c- 2e- 2a-	2aa-)	.
+4r	(4cc-M	pp
+=	=	=
+4E-	(4b-)	.
+*clefG2	*	*
+4B- 4e- 4gn	4ee-	.
+4B-^ 4f- 4a-	4ddn^	.
+*clefF4	*	*
+=	=	=
+4E-	4.ee-	.
+*clefG2	*	*
+4B- 4e- 4gn	.	.
+.	8dd-	.
+4B- 4e- 4g	8cc-L	.
+.	8b-J)	.
+*clefF4	*	*
+=	=	=
+4AA-	(4cc-	.
+4A- 4c- 4e-	4a-	.
+4A- 4B- 4f-	4gn^	.
+!!linebreak:original
+=	=	=
+4AA-	2a-)	.
+4A- 4c- 4e-	.	.
+4A- 4c- 4e-	(4cc-M	.
+=	=	=
+4E-	(4b-)	.
+*clefG2	*	*
+4B- 4e- 4gn	4ee-	.
+4B-^ 4f- 4a-	4ddn	.
+*clefF4	*	*
+=	=	=
+4E-	4.ee-	.
+*clefG2	*	*
+4B- 4e- 4gn	.	.
+.	8dd-	.
+4B- 4e- 4g	8cc-L	.
+.	8b-J)	.
+*clefF4	*	*
+=	=	=
+4AA-	(4cc-	.
+4A- 4c- 4e-	4ee-	.
+4A- 4B- 4e- 4gn	4ggn	.
+=	=	=
+2A- 2c- 2e- 2a-	2aa-)	.
+=||	=||	=||
+*	*^	*
+4r	(4ee-	(4e-	mf
+=	=	=	=
+4BBB-	4dd-)	(4d-)	<
+4BB- 4D- 4F- 4Gn	4ff-	4f-	.
+4BB- 4D- 4F- 4G	4ee-	4e-	.
+*	*v	*v	*
+!!linebreak:original
+=	=	=
+4DD-	2f-) 2ff-	[ >
+4D- 4F- 4Gn 4B-	.	.
+4D- 4F- 4G 4B-	(8ee-L	] p
+.	8dd-J	.
+=	=	=
+4FF-	8cc-L	.
+.	8b-J)	.
+4F- 4A- 4B-	4d 4a- 4b-	.
+4F- 4A- 4B-	4d 4a- 4b-	.
+=	=	=
+4EE-	2e- 2gn 2b-	.
+4E- 4Gn 4B-	.	.
+*	*^	*
+4r	(4ee-	(4e-	.
+=	=	=	=
+4BBB--	4dd-)	(4d-)	<
+4BB-- 4D- 4F- 4Gn	4ff-	4f-	.
+4BB-- 4D- 4F- 4G	4ee-	4e-	.
+*	*v	*v	*
+=	=	=
+4DD-	2f-) 2ff-	[ >
+4D- 4F- 4Gn 4B-	.	.
+4D- 4F- 4G 4B-	(8dd-L	] p
+.	8b--J	.
+=	=	=
+*	*^	*
+4FF-	8a-L	4r	.
+.	8b-J)	.	.
+4F- 4A-	(8cc-L	4dn 4a-	.
+.	8b-J)	.	.
+4F- 4A- 4B-	4b-	4d 4a-	.
+*	*v	*v	*
+!!linebreak:original
+=	=	=
+4EE-	2e- 2gn 2b-	.
+4E- 4Gn 4B-	.	.
+4r	(4ee-	pp
+=	=	=
+4EE-	(4b-)	.
+4B- 4e- 4gn	4ee-	.
+4B- 4e- 4g	4ddn	.
+=	=	=
+*D-:	*D-:	*
+4Cn	4.ee-^	.
+4B-- 4e- 4g-	.	.
+.	8gg-	.
+4B-- 4e- 4g-	8ff-L	.
+.	8ee-J	.
+=	=	=
+4D-	(4a-)	.
+4A- 4d- 4fn	4dd-M	.
+4A- 4d- 4f	4ccn	.
+=	=	=
+*c-:	*c-:	*
+4BB-	4.dd-^	.
+4Gn 4d- 4f-	.	.
+.	8ff-	.
+4G 4d- 4f-	8ee-L	.
+.	8dd-J	.
+=	=	=
+4C-	(4g-)	.
+4G- 4c- 4e-	4cc-M	.
+4G- 4c- 4e-	4b-	.
+!!linebreak:original
+=	=	=
+*a-:	*a-:	*
+4C-	4.cc-^	.
+4A- 4c- 4e-	.	.
+.	8ee-	.
+4A- 4c- 4e-	8dd-L	.
+.	8cc-J	.
+=	=	=
+4EE-	4.b-^	.
+4E- 4Gn 4d-	.	.
+.	8dd-	.
+4E- 4G 4d-	8cc-L	.
+.	8b-J	.
+=	=	=
+4AA-	4a-)	.
+4E- 4A- 4c-	4r	.
+*	*^	*
+4r	(4ee-	(4e-	mf
+=	=	=	=
+4BBB-	4dd-)	(4d-)	<
+4BB- 4D- 4F- 4Gn	4ff-	4f-	.
+4BB- 4D- 4F- 4G	4ee-	4e-	.
+*	*v	*v	*
+=	=	=
+4DD-	2f-) 2ff-	[ >
+4D- 4F- 4Gn 4B-	.	.
+4D- 4F- 4G 4B-	(8ee-L	] p
+.	8dd-J	.
+=	=	=
+4FF-	8cc-L	.
+.	8b-J)	.
+4F- 4A- 4B-	4d 4a- 4b-	.
+4F- 4A- 4B-	4d 4a- 4b-	.
+!!pagebreak:original
+=	=	=
+4EE-	2e- 2gn 2b-	.
+4E- 4Gn 4B-	.	.
+*	*^	*
+4r	(4ee-	(4e-	.
+=	=	=	=
+4BBB--	4dd-)	(4d-)	<
+4BB-- 4D- 4F- 4Gn	4ff-	4f-	.
+4BB-- 4D- 4F- 4G	4ee-	4e-	.
+*	*v	*v	*
+=	=	=
+4DD-	2f-) 2ff-	[ >
+4D- 4F- 4Gn 4B-	.	.
+4D- 4F- 4G 4B-	(8dd-L	] p
+.	8b--J	.
+=	=	=
+*	*^	*
+4FF-	8a-L	4r	.
+.	8b-J	.	.
+4F- 4A-	(8cc-L)	4dn 4a-	.
+.	8b-J)	.	.
+4F- 4A- 4B-	4b-	4d 4a-	.
+*	*v	*v	*
+=	=	=
+4EE-	2e- 2gn 2b-	.
+4E- 4Gn 4B-	.	.
+4r	(4ee-	pp
+=	=	=
+4EE-	(4b-)	.
+4B- 4e- 4gn	4ee-	.
+4B- 4e- 4g	4ddn	.
+!!linebreak:original
+=	=	=
+*d-:	*d-:	*
+4Cn	4.ee-^	.
+4B-- 4e- 4g-	.	.
+.	8gg-	.
+4B-- 4e- 4g-	8ff-L	.
+.	8ee-J	.
+=	=	=
+4D-	(4a-)	.
+4A- 4d- 4fn	4dd-M	.
+4A- 4d- 4f	4ccn	.
+=	=	=
+*c-:	*c-:	*
+4BB-	4.dd-^	.
+4Gn 4d- 4f-	.	.
+.	8ff-	.
+4G 4d- 4f-	8ee-L	.
+.	8dd-J	.
+=	=	=
+4C-	(4g-)	.
+4G- 4c- 4e-	4cc-M	.
+4G- 4c- 4e-	4b-	.
+=	=	=
+*a-:	*a-:	*
+4C-	4.cc-^	.
+4A- 4c- 4e-	.	.
+.	8ee-	.
+4A- 4c- 4e-	8dd-L	.
+.	8cc-J	.
+=	=	=
+4EE-	4.b-^	.
+4E- 4Gn 4d-	.	.
+.	8dd-	.
+4E- 4G 4d-	8cc-L	.
+.	8b-J	.
+!!linebreak:original
+=	=	=
+4AA-	4a-)	.
+4E- 4A- 4c-	4r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/10/15
+!!!ENC: Florian Moldaschl
+!!!EEV: 2025/10/15
+!!!title: @{OPR}, @{SCT} №@{ONM}
