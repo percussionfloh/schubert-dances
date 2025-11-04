@@ -2,18 +2,15 @@
 !!!CDT: 1797/01/31-1828/11/19
 !!!SCT: D. 128
 !!!OPR: 12 Wiener Tänze
-!!!OPS: -
 !!!ONM: 4
 **kern	**kern	**dynam
 *part1	*part1	*part1
 *staff2	*staff1	*
-*I"Klavier	*	*
-*I'Klav.	*	*
 *clefF4	*clefG2	*
 *k[f#c#g#d#]	*k[f#c#g#d#]	*
+*E:	*E:	*
 *M3/4	*M3/4	*
 =1	=1	=1
-*E:	*E:	*
 2EE 2GG# 2BB 2E	2b 2ee 2gg# 2bb	ff
 8EEL 8GG# 8BB 8E	8bL 8ee 8gg# 8bb	.
 8EEJ 8GG# 8BB 8E	8bJ 8ee 8gg# 8bb	.
@@ -46,7 +43,6 @@
 8d#J	.	.
 8eL	4b 4dd# 4ff# 4bb	.
 8f#J	.	.
-!!linebreak:original
 =	=	=
 4e 4g#	8eeL	.
 .	8gg#J	.
@@ -80,7 +76,6 @@
 .	8ddnJ	.
 4BB' 4D 4G	8ccnL	.
 .	8bJ	.
-!!linebreak:original
 =	=	=
 *a:	*a:	*
 2AA 2Cn 2E 2A	2ccn 2ee 2aa 2cccn	.
@@ -113,7 +108,6 @@
 4CCn 4Cn	4e 4gn 4a#X 4ee	.
 4CC 4C	4e 4g 4a# 4ee	.
 4CC 4C	4e 4g 4a# 4ee	.
-!!linebreak:original
 =	=	=
 4BBB 4BB	8f#L 8b 8dd#	.
 .	8bJ	.
@@ -149,7 +143,6 @@
 2B 2f#	2b 2dd# 2bb	.
 8BL 8f#	8bL 8dd# 8bb	.
 8BJ 8f#	8bJ 8dd# 8bb	.
-!!linebreak:original
 =	=	=
 4B 4a	4b 4dd# 4bb	.
 4B 4g#	4b 4dd# 4bb	.
@@ -170,7 +163,7 @@
 !!!system-decoration: {(s1,s2)}
 !!!AGN: Walzer
 !!!EED: Wolfgang Drescher
-!!!END: 2025/10/15
+!!!END: 2025/11/03
 !!!ENC: Florian Moldaschl
 !!!EEV: 2025/11/03
 !!!title: @{OPR}, @{SCT} №@{ONM}

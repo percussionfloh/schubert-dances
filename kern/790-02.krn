@@ -29,6 +29,7 @@
 =	=	=
 2.FF# 2.F#	2.f#	.
 =	=	=
+*f#:	*f#:	*
 4FF# 4F#	4f# 4a 4cc#	.
 4FF# 4F#	4f# 4a 4cc#	.
 4FF# 4F#	4f# 4a 4cc#	.
@@ -45,6 +46,7 @@
 2.FF# 2.F#	2.f# 2.a 2.cc#	.
 =:|!|:	=:|!|:	=:|!|:
 *>B	*>B	*>B
+*c#:	*c#:	*
 4BBB#X 4BB#X	4f#' 4a 4dd#X	pp
 4GG# 4G#	4f#' 4g# 4dd#	.
 4BB# 4B#X	4f#' 4g# 4dd#	.
@@ -67,6 +69,7 @@
 4C# 4c#	4cc#	.	.
 *	*v	*v	*
 =	=	=
+*B:	*B:	*
 4AAA#X 4AA#X	4e 4gn 4cc#	.
 4FF# 4F#	4e 4f# 4cc#	.
 4AA# 4A#X	4e 4f# 4cc#	.
@@ -89,6 +92,7 @@
 4BB 4B	4b	.	.
 *	*v	*v	*
 =	=	=
+*f#:	*f#:	*
 4GGGn 4GGn	4d 4b	f
 4GG 4Gn	4d 4b 4dd	.
 4FF# 4F#	4d 4b 4dd	.
@@ -101,8 +105,7 @@
 *	*v	*v	*
 4EEE#X 4EE#	4cc# 4gg# 4ccc#	.
 =	=	=
-!	!LO:TX:b:i:t=cresc.	!
-.	16qqddd/	.
+.	16qqddd/	<
 4FFF# 4FF#	8ccc#	.
 .	8r	.
 4AAA 4AA	4ff# 4aa	.
@@ -115,6 +118,7 @@
 4EE#X 4E#X	4cc# 4gg#	.
 =	=	=
 .	16qqbb/	p
+*A:	*A:	*
 4CC#	8aa	.
 .	8r	.
 4C# 4E 4A	4a 4ee	.

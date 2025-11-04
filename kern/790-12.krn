@@ -7,8 +7,6 @@
 **kern	**kern	**dynam
 *part1	*part1	*part1
 *staff2	*staff1	*
-*I"Klavier	*	*
-*I'Klav.	*	*
 *clefF4	*clefG2	*
 *k[f#c#g#d#]	*k[f#c#g#d#]	*
 *M3/4	*M3/4	*
@@ -55,7 +53,6 @@
 *	*	*v	*v	*
 4BB	.	8BL	.
 .	.	8f#J	.
-!!linebreak:original
 =	=	=	=
 4r	2.EE	8aL	.
 .	.	8g#J	.
@@ -92,7 +89,6 @@
 .	.	8BJ	.
 *	*	*^	*
 4BB	.	[4g#^	4B	.
-!!linebreak:original
 =	=	=	=	=
 4r	2.DD#	8g#L]	2.B	.
 .	.	8bJ	.	.
@@ -134,10 +130,8 @@
 .	.	8c#J	.
 *E:	*E:	*E:	*
 4BB	.	[4f#^	.
-!!linebreak:original
 =	=	=	=
-!	!	!LO:TX:b:i:t=cresc.	!
-4r	2.BBB	8f#L]	.
+4r	2.BBB	8f#L]	<
 .	.	8aJ	.
 4BB	.	8d#L	.
 .	.	8f#J	.
@@ -173,7 +167,6 @@
 =	=	=	=	=
 2BB	2EE	2e	2G#	.
 4r	4r	[4g#^	4B	.
-!!linebreak:original
 =	=	=	=	=
 4r	2.DD#	8g#L]	2.B	.
 .	.	8bJ	.	.
@@ -189,7 +182,6 @@
 .	.	8BJ	.
 *	*	*^	*
 4BB	.	[4g#^	4B	.
-!!linebreak:original
 =	=	=	=	=
 4r	2.DD#	8g#L]	2.B	.
 .	.	8bJ	.	.
@@ -231,10 +223,8 @@
 .	.	8c#J	.
 *E:	*E:	*E:	*
 4BB	.	[4f#^	.
-!!linebreak:original
 =	=	=	=
-!	!	!LO:TX:b:i:t=cresc.	!
-4r	2.BBB	8f#L]	.
+4r	2.BBB	8f#L]	<
 .	.	8aJ	.
 4BB	.	8d#L	.
 .	.	8f#J	.
@@ -269,7 +259,6 @@
 .	.	8d#J	.	.
 =	=	=	=	=
 2BB	2EE	2e	2G#	.
-
 *v	*v	*	*	*
 *	*v	*v	*
 ==	==	==

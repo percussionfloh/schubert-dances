@@ -11,8 +11,8 @@
 *I'Klav.	*	*
 *clefF4	*clefG2	*
 *k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*
-*M3/4	*M3/4	*
 *a-:	*a-:	*
+*M3/4	*M3/4	*
 =1	=1	=1
 4r	(4cc-M	pp
 =	=	=
@@ -42,7 +42,6 @@
 *clefG2	*	*
 4B- 4e- 4gn	4ee-	.
 4B-^ 4f- 4a-	4ddn^	.
-!!linebreak:original
 *clefF4	*	*
 =	=	=
 4E-	4.ee-	.
@@ -77,7 +76,6 @@
 4AA-	(4cc-	.
 4A- 4c- 4e-	4a-	.
 4A- 4B- 4f-	4gn^	.
-!!linebreak:original
 =	=	=
 4AA-	2a-)	.
 4A- 4c- 4e-	.	.
@@ -110,7 +108,6 @@
 4BB- 4D- 4F- 4Gn	4ff-	4f-	.
 4BB- 4D- 4F- 4G	4ee-	4e-	.
 *	*v	*v	*
-!!linebreak:original
 =	=	=
 4DD-	2f-) 2ff-	[ >
 4D- 4F- 4Gn 4B-	.	.
@@ -144,7 +141,6 @@
 .	8b-J)	.	.
 4F- 4A- 4B-	4b-	4d 4a-	.
 *	*v	*v	*
-!!linebreak:original
 =	=	=
 4EE-	2e- 2gn 2b-	.
 4E- 4Gn 4B-	.	.
@@ -175,7 +171,6 @@
 4C-	(4g-)	.
 4G- 4c- 4e-	4cc-M	.
 4G- 4c- 4e-	4b-	.
-!!linebreak:original
 =	=	=
 *a-:	*a-:	*
 4C-	4.cc-^	.
@@ -241,7 +236,6 @@
 4EE-	(4b-)	.
 4B- 4e- 4gn	4ee-	.
 4B- 4e- 4g	4ddn	.
-!!linebreak:original
 =	=	=
 *d-:	*d-:	*
 4Cn	4.ee-^	.
@@ -277,7 +271,6 @@
 .	8dd-	.
 4E- 4G 4d-	8cc-L	.
 .	8b-J	.
-!!linebreak:original
 =	=	=
 4AA-	4a-)	.
 4E- 4A- 4c-	4r	.
