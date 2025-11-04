@@ -1,0 +1,283 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 790
+!!!OPR: 12 Deutsche Tänze
+!!!OPS: 171
+!!!ONM: 12
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Klavier	*	*
+*I'Klav.	*	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*M3/4	*M3/4	*
+=1	=1	=1
+*	*^	*
+4r	[4e^	(4G#	pp
+=	=	=	=
+*E:	*E:	*E:	*
+*^	*	*	*
+4r	2.BBB	8eL]	2B)	.
+.	.	8g#J	.	.
+4BB	.	8d#L	.	.
+.	.	8f#J	.	.
+4BB	.	8AL	4r	.
+.	.	8d#J	.	.
+*	*	*v	*v	*
+=	=	=	=
+4r	2.EE	8f#L	.
+.	.	8eJ	.
+4BB	.	8BL	.
+.	.	8G#J	.
+*	*	*^	*
+4BB	.	[4e^	(4G#	.
+=	=	=	=	=
+4r	2.BBB	8eL]	2B)	.
+.	.	8g#J	.	.
+4BB	.	8d#L	.	.
+.	.	8f#J	.	.
+*	*	*v	*v	*
+4BB	.	8AL	.
+.	.	8d#J	.
+=	=	=	=
+4r	2.EE	8f#L	.
+.	.	8eJ	.
+4BB	.	8BL	.
+.	.	8G#J	.
+*	*	*^	*
+4BB	.	[4g#^	(4e	.
+=	=	=	=	=
+4r	2.DD#	8g#L]	2B)	.
+.	.	8bJ	.	.
+4BB	.	8f#L	.	.
+.	.	8aJ	.	.
+*	*	*v	*v	*
+4BB	.	8BL	.
+.	.	8f#J	.
+!!linebreak:original
+=	=	=	=
+4r	2.EE	8aL	.
+.	.	8g#J	.
+4BB	.	8eL	.
+.	.	8BJ	.
+*	*	*^	*
+4BB	.	[4e^	(4G#	.
+=	=	=	=	=
+4r	2.BBB	8eL]	2B)	.
+.	.	8g#J	.	.
+4BB	.	8d#L	.	.
+.	.	8f#J	.	.
+*	*	*v	*v	*
+4BB	.	8AL	.
+.	.	8d#J	.
+=	=	=	=
+2BB	2EE	2G# 2e	.
+=:|!	=:|!	=:|!	=:|!
+*	*	*^	*
+2BB	2EE	2e	2G#	.
+4r	4r	[4g#^	4B	.
+=	=	=	=	=
+4r	2.DD#	8g#L]	2.B	.
+.	.	8bJ	.	.
+4BB	.	8aL	.	.
+.	.	8cc#J	.	.
+4BB	.	8f#L	.	.
+.	.	8aJ	.	.
+*	*	*v	*v	*
+=	=	=	=
+4r	2.EE	8cc#L	.
+.	.	8bJ	.
+4BB	.	8g#L	.
+.	.	8BJ	.
+*	*	*^	*
+4BB	.	[4g#^	4B	.
+!!linebreak:original
+=	=	=	=	=
+4r	2.DD#	8g#L]	2.B	.
+.	.	8bJ	.	.
+4BB	.	8aL	.	.
+.	.	8cc#J	.	.
+4BB	.	8f#L	.	.
+.	.	8aJ	.	.
+*	*	*v	*v	*
+=	=	=	=
+4r	2.EE	8cc#L	.
+.	.	8bJ	.
+4BB	.	8g#L	.
+.	.	8BJ	.
+4BB	.	[4g#^	pp
+=	=	=	=
+4r	2.DD#	8g#L]	.
+.	.	8bJ	.
+4BB	.	8f##XL	.
+.	.	8a#XJ	.
+4BB	.	[4g#	.
+=	=	=	=
+*F#:	*F#:	*F#:	*
+4r	2.DDn	8g#L]	.
+.	.	8bJ	.
+4BB	.	8f##XL	.
+.	.	8a#XJ	.
+4BB	.	[4g#	.
+=	=	=	=
+4r	2.CC#	8g#L]	.
+.	.	8bJ	.
+4BB	.	8e#XL	.
+.	.	8g#J	.
+4BB	.	8c#L	.
+.	.	8g#J	.
+=	=	=	=
+4r	2.FF#	8bL	.
+.	.	8aJ	.
+4BB	.	8f#L	.
+.	.	8c#J	.
+*E:	*E:	*E:	*
+4BB	.	[4f#^	.
+!!linebreak:original
+=	=	=	=
+!	!	!LO:TX:b:i:t=cresc.	!
+4r	2.BBB	8f#L]	.
+.	.	8aJ	.
+4BB	.	8d#L	.
+.	.	8f#J	.
+4BB	.	8BL	.
+.	.	8f#J	.
+=	=	=	=
+*	*	*^	*
+4r	2.EE	8aL	2r	.
+.	.	8g#J	.	.
+4BB	.	8eL	.	.
+.	.	8BJ	.	.
+4BB	.	[4e^	4G#	f
+=	=	=	=	=
+4r	2.BBB	8eL]	2B	.
+.	.	8g#J	.	.
+4BB	.	8d#L	.	.
+.	.	8f#J	.	.
+4BB	.	8AL	4r	.
+.	.	8d#J	.	.
+=	=	=	=	=
+4r	2.EE	8f#L	2r	.
+.	.	8eJ	.	.
+4BB	.	8BL	.	.
+.	.	8G#J	.	.
+4BB	.	[4e^	4G#	p
+=	=	=	=	=
+4r	2.BBB	8eL]	2B	.
+.	.	8g#J	.	.
+4BB	.	8d#L	.	.
+.	.	8f#J	.	.
+4BB	.	8AL	4r	.
+.	.	8d#J	.	.
+=	=	=	=	=
+2BB	2EE	2e	2G#	.
+4r	4r	[4g#^	4B	.
+!!linebreak:original
+=	=	=	=	=
+4r	2.DD#	8g#L]	2.B	.
+.	.	8bJ	.	.
+4BB	.	8aL	.	.
+.	.	8cc#J	.	.
+4BB	.	8f#L	.	.
+.	.	8aJ	.	.
+*	*	*v	*v	*
+=	=	=	=
+4r	2.EE	8cc#L	.
+.	.	8bJ	.
+4BB	.	8g#L	.
+.	.	8BJ	.
+*	*	*^	*
+4BB	.	[4g#^	4B	.
+!!linebreak:original
+=	=	=	=	=
+4r	2.DD#	8g#L]	2.B	.
+.	.	8bJ	.	.
+4BB	.	8aL	.	.
+.	.	8cc#J	.	.
+4BB	.	8f#L	.	.
+.	.	8aJ	.	.
+*	*	*v	*v	*
+=	=	=	=
+4r	2.EE	8cc#L	.
+.	.	8bJ	.
+4BB	.	8g#L	.
+.	.	8BJ	.
+4BB	.	[4g#^	pp
+=	=	=	=
+4r	2.DD#	8g#L]	.
+.	.	8bJ	.
+4BB	.	8f##XL	.
+.	.	8a#XJ	.
+4BB	.	[4g#	.
+=	=	=	=
+*F#:	*F#:	*F#:	*
+4r	2.DDn	8g#L]	.
+.	.	8bJ	.
+4BB	.	8f##XL	.
+.	.	8a#XJ	.
+4BB	.	[4g#	.
+=	=	=	=
+4r	2.CC#	8g#L]	.
+.	.	8bJ	.
+4BB	.	8e#XL	.
+.	.	8g#J	.
+4BB	.	8c#L	.
+.	.	8g#J	.
+=	=	=	=
+4r	2.FF#	8bL	.
+.	.	8aJ	.
+4BB	.	8f#L	.
+.	.	8c#J	.
+*E:	*E:	*E:	*
+4BB	.	[4f#^	.
+!!linebreak:original
+=	=	=	=
+!	!	!LO:TX:b:i:t=cresc.	!
+4r	2.BBB	8f#L]	.
+.	.	8aJ	.
+4BB	.	8d#L	.
+.	.	8f#J	.
+4BB	.	8BL	.
+.	.	8f#J	.
+=	=	=	=
+*	*	*^	*
+4r	2.EE	8aL	2r	.
+.	.	8g#J	.	.
+4BB	.	8eL	.	.
+.	.	8BJ	.	.
+4BB	.	[4e^	4G#	f
+=	=	=	=	=
+4r	2.BBB	8eL]	2B	.
+.	.	8g#J	.	.
+4BB	.	8d#L	.	.
+.	.	8f#J	.	.
+4BB	.	8AL	4r	.
+.	.	8d#J	.	.
+=	=	=	=	=
+4r	2.EE	8f#L	2r	.
+.	.	8eJ	.	.
+4BB	.	8BL	.	.
+.	.	8G#J	.	.
+4BB	.	[4e^	4G#	p
+=	=	=	=	=
+4r	2.BBB	8eL]	2B	.
+.	.	8g#J	.	.
+4BB	.	8d#L	.	.
+.	.	8f#J	.	.
+4BB	.	8AL	4r	.
+.	.	8d#J	.	.
+=	=	=	=	=
+2BB	2EE	2e	2G#	.
+
+*v	*v	*	*	*
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/11/03
+!!!ENC: Florian Moldaschl
+!!!EEV: 2025/11/03
+!!!title: @{OPR}, @{SCT} №@{ONM}
