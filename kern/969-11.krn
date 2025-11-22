@@ -15,28 +15,28 @@
 =	=	=
 *>A	*>A	*>A
 4r	4g	pf
-=	=	=
+=1	=1	=1
 4C	4g 4cc 4ee	.
 8GL 8c 8e	8gL 8cc 8ee	.
 8G 8c 8e	8g 8cc 8ee	.
 8G 8c 8e	8g 8cc 8ee	.
 8GJ 8c 8e	8gJ 8cc 8ee	.
-=	=	=
+=2	=2	=2
 4GG	(4g 4b 4dd 4gg	.
 4G 4B 4d	4g) 4b 4dd	.
 4G 4B 4d	4g 4b 4dd	.
-=	=	=
+=3	=3	=3
 *d:	*d:	*
 4D	4f 4a 4dd	.
 8FL 8A 8d	8fL 8a 8dd	.
 8F 8A 8d	8f 8a 8dd	.
 8F 8A 8d	8f 8a 8dd	.
 8FJ 8A 8d	8fJ 8a 8dd	.
-=	=	=
+=4	=4	=4
 4AA	(4e 4a 4cc#X	.
 4E 4A 4c#X	4e) 4a 4cc# 4ee	.
 4E 4A 4c#	4e 4a 4cc# 4ee	.
-=	=	=
+=5	=5	=5
 *>A	*>A	*>A
 *C:	*C:	*
 4FF	4a 4ccni 4ff	.
@@ -44,54 +44,54 @@
 8F 8A 8c	8a 8cc 8ff	.
 8F 8A 8c	8a 8cc 8ff	.
 8FJ 8A 8c	8aJ 8cc 8ff	.
-=	=	=
+=6	=6	=6
 4GG	(4g 4cc 4ee	.
 4G 4c 4e	4g) 4cc 4ee 4gg	.
 4G 4c 4e	4g 4cc 4ee 4gg	.
-=	=	=
+=7	=7	=7
 4GG	4b 4ff 4gg	.
 4G 4d 4f	4b 4ff 4gg 4bb	.
 4G 4d 4f	4b 4ff 4gg 4bb	.
-=	=	=
+=8	=8	=8
 4C	2cc 2ee 2gg 2ccc	.
 4G 4c 4e	.	.
 =:|!|:	=:|!|:	=:|!|:
 *>X	*>X	*>X
 4r	4cc 4ee 4gg	f
-=	=	=
+=9	=9	=9
 4GG	4b 4dd 4ff 4aa	.
 8GL 8d 8f	8bL 8dd 8ff 8aa	.
 8G 8d 8f	8bJ 8dd 8ff 8aa	.
 8G 8d 8f	8bL 8dd 8ff 8aa	.
 8GJ 8d 8f	8bJ 8dd 8ff 8aa	.
-=	=	=
+=10	=10	=10
 4C	(4cc 4ee 4gg	.
 4G 4c 4e	4g) 4cc 4ee	.
 4G 4c 4e	4g 4cc 4ee	.
-=	=	=
+=11	=11	=11
 4GG	(4g 4b 4dd	.
 4G 4B 4d	4g) 4dd 4ff	.
 4G 4B 4d	4g 4dd 4ff	.
-=	=	=
+=12	=12	=12
 4C	(4g 4cc 4ee	.
 4E 4G 4c	4e) 4g 4cc	.
 4E 4G 4c	4e 4g 4cc	.
-=	=	=
+=13	=13	=13
 *>A	*>A	*>A
 4AA	4a 4cc#X 4ee 4aa	ff
 8AL 8e 8g	8aL 8cc# 8ee	.
 8A 8e 8g	8aJ 8cc# 8ee	.
 8A 8e 8g	8aL 8cc# 8ee	.
 8AJ 8e 8g	8aJ 8cc# 8ee	.
-=	=	=
+=14	=14	=14
 4F	(4a 4ccni 4ff	.
 4A 4c 4f	4a) 4cc 4ff 4aa	.
 4A 4c 4f	4a 4cc 4ff 4aa	.
-=	=	=
+=15	=15	=15
 4GG	(4b 4ff 4gg	.
 4G 4d 4f	4b) 4ff 4gg 4bb	.
 4G 4d 4f	4b 4ff 4gg 4bb	.
-=	=	=
+=16	=16	=16
 4C	2cc 2ee 2gg 2ccc	.
 4G 4c 4e	.	.
 ==	==	==
@@ -101,5 +101,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2025/05/05
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2025/05/05
+!!!EEV: 2025/11/22
 !!!title: @{OPR}, @{SCT} №@{ONM}

@@ -18,49 +18,49 @@
 4EE 4E	4e	ff
 4EE 4E	4e	.
 4EE 4E	4e	.
-=	=	=
+=2	=2	=2
 4.AA 4.A	4.a	fz
 8EE 8E	8e	.
 4EE 4E	4e	.
-=	=	=
+=3	=3	=3
 4CC# 4C#	4c#	.
 4DD 4D	4d	.
 4EE 4E	4e	.
-=	=	=
+=4	=4	=4
 2.FF# 2.F#	2.f#	.
-=	=	=
+=5	=5	=5
 *f#:	*f#:	*
 4FF# 4F#	4f# 4a 4cc#	.
 4FF# 4F#	4f# 4a 4cc#	.
 4FF# 4F#	4f# 4a 4cc#	.
-=	=	=
+=6	=6	=6
 4.CC# 4.C#	4.f# 4.a 4.ff#	fz
 8FF# 8F#	8f# 8a 8cc#	.
 4FF# 4F#	4f# 4a 4cc#	.
-=	=	=
+=7	=7	=7
 .	16qqee/	.
 4BBB 4BB	4f# 4a 4dd	.
 4CC# 4C#	4f# 4a 4cc#	.
 4CC# 4C#	4e#X 4g# 4cc#	.
-=	=	=
+=8	=8	=8
 2.FF# 2.F#	2.f# 2.a 2.cc#	.
-=:|!|:	=:|!|:	=:|!|:
+=9:|!|:	=9:|!|:	=9:|!|:
 *>B	*>B	*>B
 *c#:	*c#:	*
 4BBB#X 4BB#X	4f#' 4a 4dd#X	pp
 4GG# 4G#	4f#' 4g# 4dd#	.
 4BB# 4B#X	4f#' 4g# 4dd#	.
-=	=	=
+=10	=10	=10
 .	16qqff#/	.
 4C# 4c#	4ee'	.
 4CC# 4C#	4e 4g# 4cc#	.
 4GGG# 4GG#	4e 4g# 4cc#	.
-=	=	=
+=11	=11	=11
 .	16qqee/	.
 4BB#X 4B#X	4dd#X'	.
 4BBB#X 4BB#	4d#X 4f# 4g#	.
 4GGG# 4GG#	4d# 4f# 4g#	.
-=	=	=
+=12	=12	=12
 *	*^	*
 4CC# 4C#	8g#L	2.e 2.g#	.
 .	8b#XJ	.	.
@@ -68,22 +68,22 @@
 .	8dd#XJ	.	.
 4C# 4c#	4cc#	.	.
 *	*v	*v	*
-=	=	=
+=13	=13	=13
 *B:	*B:	*
 4AAA#X 4AA#X	4e 4gn 4cc#	.
 4FF# 4F#	4e 4f# 4cc#	.
 4AA# 4A#X	4e 4f# 4cc#	.
-=	=	=
+=14	=14	=14
 .	16qqee/	.
 4BB 4B	4dd#X'	.
 4BBB 4BB	4d#X 4f# 4b	.
 4FFF# 4FF#	4d# 4f# 4b	.
-=	=	=
+=15	=15	=15
 .	16qqdd#X/	.
 4AA#X 4A#X	4cc#'	.
 4AAA#X 4AA#	4e 4f#	.
 4FFF# 4FF#	4e 4f#	.
-=	=	=
+=16	=16	=16
 *	*^	*
 4BBB 4BB	8d#XL	2.d# 2.f#	.
 .	8a#XJ	.	.
@@ -91,12 +91,12 @@
 .	8cc#J	.	.
 4BB 4B	4b	.	.
 *	*v	*v	*
-=	=	=
+=17	=17	=17
 *f#:	*f#:	*
 4GGGn 4GGn	4d 4b	f
 4GG 4Gn	4d 4b 4dd	.
 4FF# 4F#	4d 4b 4dd	.
-=	=	=
+=18	=18	=18
 *	*^	*
 4EE#X 4E#X	8cc#L	2cc#	.
 .	8gg#J	.	.
@@ -104,45 +104,45 @@
 .	8bb#XJ	.	.
 *	*v	*v	*
 4EEE#X 4EE#	4cc# 4gg# 4ccc#	.
-=	=	=
+=19	=19	=19
 .	16qqddd/	<
 4FFF# 4FF#	8ccc#	.
 .	8r	.
 4AAA 4AA	4ff# 4aa	.
 4CC# 4C#	4ff# 4aa	.
-=	=	=
+=20	=20	=20
 .	16qqccc#/	.
 4GGG# 4GG#	8bb	.
 .	8r	.
 4CC# 4C#	4cc# 4gg#	.
 4EE#X 4E#X	4cc# 4gg#	.
-=	=	=
+=21	=21	=21
 .	16qqbb/	p
 *A:	*A:	*
 4CC#	8aa	.
 .	8r	.
 4C# 4E 4A	4a 4ee	.
 4C# 4E 4A	4a 4ee	.
-=	=	=
+=22	=22	=22
 .	16qqaa/	.
 4DD	8gg#	.
 .	8r	.
 4D 4F# 4A	4a 4ff#	.
 4D 4F# 4A	4a 4ff#	.
-=	=	=
+=23	=23	=23
 .	16qqgg#/	.
 4EE	8ff#	.
 .	8r	.
 4E 4B 4d	4g# 4ee	.
 4E 4B 4d	4g# 4ee	.
-=	=	=
+=24	=24	=24
 *>B1	*>B1	*>B1
 4A	8eL 8cc#	.
 .	8aJ	.
 4E	8eL	.
 .	8c#J	.
 4AA	4A	.
-=:|!	=:|!	=:|!
+=25:|!	=25:|!	=25:|!
 *>B2	*>B2	*>B2
 4A	8eL 8cc#	.
 .	8aJ	.
@@ -156,5 +156,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2025/10/15
 !!!ENC: Florian Moldaschl
-!!!EEV: 2025/10/15
+!!!EEV: 2025/11/22
 !!!title: @{OPR}, @{SCT} №@{ONM}

@@ -16,84 +16,84 @@
 *>A	*>A	*>A
 8CCL 8C	8cL 8cc	ff
 8GGJ	8gJ	.
-=	=	=
+=1	=1	=1
 4CC 4C	4c 4cc	fz
 4CC 4C	4c 4cc	.
 8CCL 8C	8gL 8cc 8ee	.
 8GGJ	8gJ 8b 8dd	.
-=	=	=
+=2	=2	=2
 4CC 4C	4g 4cc 4ee	fz
 4CC 4C	4g 4cc 4ee	.
 8CCL 8C	8ccL 8ee 8gg	.
 8GGJ	8bJ 8dd 8gg	.
-=	=	=
+=3	=3	=3
 4CC 4C	4cc 4ee 4gg	.
 4EE 4E	4cc 4ee 4gg	.
 4CC 4D	4ee^ 4gg 4ccc	.
-=	=	=
+=4	=4	=4
 2GG 2G	2dd 2gg 2bb	.
 4r	8bL 8ff 8aa	mf
 .	8bJ 8ee 8gg#X	.
-=	=	=
+=5	=5	=5
 4GG	4b 4ff 4aa	.
 4G 4d 4f	4b 4ff 4aa	.
 4r	8bL 8dd 8ff	.
 .	8bJ 8cc#X 8ee	.
-=	=	=
+=6	=6	=6
 4GG	4b 4dd 4ff	.
 4G 4d 4f	4b 4dd 4ff	.
 4r	8gL 8b 8dd	.
 .	8gJ 8a#X 8cc#X	.
-=	=	=
+=7	=7	=7
 4GG 4G	4g 4b 4dd	.
 4B 4d 4f	4g 4b 4dd	.
 4G 4d 4f	4g^ 4b 4dd 4gg	.
-=	=	=
+=8	=8	=8
 2c 2e	2g 2cc 2ee	.
 =:|!|:	=:|!|:	=:|!|:
 *>X	*>X	*>X
 *d:	*d:	*
 4r	8aL 8cc#X 8ee 8aa	f
 .	8aJ 8dd 8ff 8aa	.
-=	=	=
+=9	=9	=9
 4AAA 4AA	4a 4cc#X 4ee 4aa	.
 4A 4e 4g	4a 4cc# 4ee 4aa	.
 4r	8a^L 8ee 8gg 8aa	.
 .	8aJ 8dd 8ff 8aa	.
-=	=	=
+=10	=10	=10
 4DD 4D	4a 4dd 4ff 4aa	.
 4A 4d 4f	4a 4dd 4ff 4aa	.
 *C:	*C:	*
 4r	8gL 8b 8dd 8gg	.
 .	8gJ 8cc 8ee 8gg	.
-=	=	=
+=11	=11	=11
 4GGG 4GG	4g 4b 4dd 4gg	.
 4G 4d 4f	4g 4b 4dd 4gg	.
 4r	8g^L 8dd 8ff 8gg	.
 .	8gJ 8cc 8ee 8gg	.
-=	=	=
+=12	=12	=12
 4CC 4C	4g 4cc 4ee 4gg	.
 4G 4c 4e	4g 4cc 4ee 4gg	.
 *>A	*>A	*>A
 8CCL 8C	8ccL 8ccc	ff
 8GGJ	8ggJ	.
-=	=	=
+=13	=13	=13
 4CC 4C	4cc 4ccc	.
 4CC 4C	4cc 4ccc	.
 8AAAL 8AA	8eeL 8aa 8ccc 8eee	fz
 8EEJ	8eeJ 8gg#X 8bb 8eee	.
-=	=	=
+=14	=14	=14
 4AAA 4AA	4ee 4aa 4eee	.
 4AAA 4AA	4ee 4aa 4ccc 4eee	.
 8GGL 8C 8E	8eeL 8eee	.
 8GGJ 8D 8F	8ffJ 8fff	.
-=	=	=
+=15	=15	=15
 *	*8va	*
 4GG 4E 4G	4gg 4ggg	.
 4GG 4E 4G	4gg 4ggg	.
 4GG 4D 4F	8aaL 8aaa	.
 .	8bbJ 8bbb	.
-=	=	=
+=16	=16	=16
 2C 2E	2ccc 2cccc	.
 *	*X8va	*
 =:|!	=:|!	=:|!
@@ -103,5 +103,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2025/05/06
 !!!ENC: Julian Schneider
-!!!EEV: 2025/05/07
+!!!EEV: 2025/11/22
 !!!title: @{OPR}, @{SCT} №@{ONM}
