@@ -16,92 +16,92 @@
 *>A	*>A	*>A
 !	!LO:TX:b:i:t=legato	!
 4r	4cc	p
-=	=	=
+=1	=1	=1
 *	*^	*
 4F'	4cc	2a	.
 4A' 4f	8ddL	.	.
 .	8cc	.	.
 4c' 4f	8cc	4a	.
 .	8ffJ	.	.
-=	=	=	=
+=2	=2	=2	=2
 4C'	(4ee	2g	.
 4G' 4e	4cc)	.	.
 4c' 4e	4cc'	4g	.
-=	=	=	=
+=3	=3	=3	=3
 4GG	8b-ML	2.g	.
 .	8a	.	.
 4G 4d	8b-	.	.
 .	8dd	.	.
 4B- 4d	8cc	.	.
 .	8b-J	.	.
-=	=	=	=
+=4	=4	=4	=4
 4D	(4dd	2f	.
 4F 4d	4a)	.	.
 4A 4d	4a'	4f	.
-=	=	=	=
+=5	=5	=5	=5
 4D	4b-	2f	.
 4F 4d	8ccL	.	.
 .	8b-	.	.
 4B- 4d	8b-	4f	.
 .	8ddJ	.	.
-=	=	=	=
+=6	=6	=6	=6
 4C	(4dd	2f	.
 4F 4c	4a)	.	.
 4A 4c	4a'	4f	.
-=	=	=	=
+=7	=7	=7	=7
 4C	8b-ML	2e	.
 .	8a	.	.
 4G 4c	8b-	.	.
 .	8dd	.	.
 4C 4B- 4c	8cc	4e	.
 .	8b-J	.	.
-=	=	=	=
+=8	=8	=8	=8
 2F 2A 2c	2a	2f	.
 *	*v	*v	*
 =:|!|:	=:|!|:	=:|!|:
 *>A	*>A	*>A
 4r	4cc	.
-=	=	=
+=9	=9	=9
 *	*^	*
 4F	4cc	2a	.
 4A 4f	8ddL	.	.
 .	8cc	.	.
 4c 4f	8cc	4a	.
 .	8aaJ	.	.
-=	=	=	=
+=10	=10	=10	=10
 4E	(4gg	2b-	.
 4B- 4g	4cc)	.	.
 4c 4g	4cc'	4b-	.
-=	=	=	=
+=11	=11	=11	=11
 4F	4cc	2a	.
 4A 4f	8ddL	.	.
 .	8cc	.	.
 4c 4f	8cc	4a	.
 .	8aaJ	.	.
-=	=	=	=
+=12	=12	=12	=12
 4D	(4ff	2a	.
 4A 4f	4dd)	.	.
 4d 4f	4dd'	4a	.
-=	=	=	=
+=13	=13	=13	=13
 4F	4cc	2a	.
 4A 4f	8ddL	.	.
 .	8cc	.	.
 4c 4f	8cc	4a	<
 .	8aaJ	.	.
-=	=	=	=
+=14	=14	=14	=14
 4A	(4ccc	2cc	.
 *clefG2	*	*	*
 4c 4a	4ff)	.	.
 4f 4a	4ff'	4cc	.
 *clefF4	*	*	*
-=	=	=	=
+=15	=15	=15	=15
 4C	(4bb-	2b-	.
 *clefG2	*	*	*
 4c 4g	4ee)	.	.
 4c 4g	4ee'	4b-	.
 *	*v	*v	*
 *clefF4	*	*
-=	=	=
+=16	=16	=16
 2F 2c 2f	2a 2ff	p
 =:|!	=:|!	=:|!
 *-	*-	*-
@@ -110,5 +110,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2025/05/05
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2025/05/05
+!!!EEV: 2025/11/22
 !!!title: @{OPR}, @{SCT} №@{ONM}
