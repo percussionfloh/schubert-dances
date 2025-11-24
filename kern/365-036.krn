@@ -7,8 +7,6 @@
 **kern	**kern	**dynam
 *part1	*part1	*part1
 *staff2	*staff1	*
-*I"Klavier	*	*
-*I'Klav.	*	*
 *clefF4	*clefG2	*
 *k[b-]	*k[b-]	*
 *M3/4	*M3/4	*
@@ -17,66 +15,66 @@
 (4.C	2FF	(4.a	2A 2c	mf
 8BBn	.	8g#X	.	.
 4C)	4FF	4a)	4A 4c	.
-=	=	=	=	=
+=2	=2	=2	=2	=2
 2F	2FF	2f	2A 2c	.
 *	*	*v	*v	*
 4A	4FF	4c	.
-=	=	=	=
+=3	=3	=3	=3
 *	*	*^	*
 (4.C	2EE	(4.b-	2B- 2c	.
 8D-X	.	8a	.	.
 4C)	4EE	4b-)	4B- 4c	.
-=	=	=	=	=
+=4	=4	=4	=4	=4
 2E	2EE	2c 2g	2B-	.
 4G	4EE	4c	4B-	.
-=	=	=	=	=
+=5	=5	=5	=5	=5
 *	*^	*	*	*
 (4.A	2.F	4.AA\	(4.c 4.cc	2f	<
 8G#X	.	8GG#X\	8Bn 8bn	.	.
 *	*	*	*v	*v	*
 4A)	.	4AA\	4c) 4cc	.
 *v	*v	*v	*	*
-=	=	=
+=6	=6	=6
 2BB- 2F 2B-	2d 2f 2dd	[ >
 4C 4F 4A	4c 4f 4cc	.
-=	=	=
+=7	=7	=7
 (4D 4F	(4B- 4f 4b-	]
 4C 4F 4A	4c 4f 4a	.
 4BBn) 4F 4G	4d) 4f 4g	.
-=	=	=
+=8	=8	=8
 2C 2E 2G	2c 2e 2g	.
 4C	4c	.
-=:|!|:	=:|!|:	=:|!|:
+=9:|!|:	=9:|!|:	=9:|!|:
 *	*^	*
 2F 2A	(4.cc	2f	.
 .	8bn	.	.
 4F 4A-X	4cc')	4f	.
 *	*v	*v	*
-=	=	=
+=10	=10	=10
 2D-X 2A-X	2f 2dd-X	.
 *	*^	*
 4AA-X 4A-	([4cc	(4e-X	.
-=	=	=	=
+=11	=11	=11	=11
 2BB- 2F	4cc]	2d-X)	.
 .	4b-Xi	.	.
 4FF 4F	4a-X	4c	.
-=	=	=	=
+=12	=12	=12	=12
 2.GG 2.Dni	2.g)	2.Bn	fz
-=	=	=	=
+=13	=13	=13	=13
 2AA-X 2D 2F	(4.f	(2Bn 2dni	<
 .	8eni	.	.
 4AA- 4D-X 4F	4f')	4B) 4d-X	.
 *	*v	*v	*
-=	=	=
+=14	=14	=14
 *^	*	*
 2F	2AAni 2C	(2c 2f 2a	[
 ([4B-Xi	4BB-	[4d [4g	.
-=	=	=	=
+=15	=15	=15	=15
 4B-]	2C	4d] 4g]	.
 4A	.	4c 4f	.
 4G)	4C	4B-') 4e	.
 *v	*v	*	*
-=	=	=
+=16	=16	=16
 2.FF 2.F	2.A 2.f	.
 =:|!	=:|!	=:|!
 *-	*-	*-

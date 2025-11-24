@@ -7,8 +7,6 @@
 **kern	**kern	**dynam
 *part1	*part1	*part1
 *staff2	*staff1	*
-*I"Klavier	*	*
-*I'Klav.	*	*
 *clefF4	*clefG2	*
 *k[b-]	*k[b-]	*
 *M3/4	*M3/4	*
@@ -18,13 +16,13 @@
 4c 4f 4a	.	.
 4c 4f 4a	.	.
 *clefF4	*	*
-=	=	=
+=2	=2	=2
 4F	2.r	.
 *clefG2	*	*
 4c 4f 4a	.	.
 4c 4f 4a	.	.
 *clefF4	*	*
-=!|:	=!|:	=!|:
+=3!|:	=3!|:	=3!|:
 4F	(8aaL	.
 .	8bb-	.
 *clefG2	*	*
@@ -32,13 +30,13 @@
 .	8cccJ)	.
 4c 4e 4g 4b-	(4bb-X^ 4ddd	.
 *clefF4	*	*
-=	=	=
+=4	=4	=4
 4C	2.ee) 2.gg	.
 *clefG2	*	*
 4c 4e 4g 4b-	.	.
 4c 4e 4g 4b-	.	.
 *clefF4	*	*
-=	=	=
+=5	=5	=5
 4C	(8ggL	.
 .	8aa	.
 *clefG2	*	*
@@ -46,33 +44,33 @@
 .	8bbnJ)	.
 4c 4f 4a	(4aa^ 4ccc	.
 *clefF4	*	*
-=	=	=
+=6	=6	=6
 4F	2.a) 2.ff	.
 4A 4c 4f	.	.
 4A 4c 4f	.	.
-=	=	=
+=7	=7	=7
 4F	(8aL	.
 .	8cc	.
 4A 4c 4f	8a 8ff	.
 .	8ccJ) 8gg	.
 4A 4c 4f	4ff^ 4aa	.
-=	=	=
+=8	=8	=8
 4F	(8aL	.
 .	8cc	.
 4A 4c 4f	8a 8ff	.
 .	8ccJ) 8gg	.
 4A 4c 4f	4ff^ 4aa	.
-=	=	=
+=9	=9	=9
 4C	(8ccL 8aa	.
 .	8b-) 8gg	.
 4c 4e	(8b- 8gg	.
 .	8ccJ 8aa	.
 4c 4e	4b-) 4gg	.
-=	=	=
+=10	=10	=10
 4F	2.a 2.ff	.
 4A 4c 4f	.	.
 4A 4c 4f	.	.
-=:|!|:	=:|!|:	=:|!|:
+=11:|!|:	=11:|!|:	=11:|!|:
 4D-X	(8bnL	.
 .	8dd-X	.
 *clefG2	*	*
@@ -80,7 +78,7 @@
 .	8dd-J) 8gg-X	.
 4d- 4f 4a-	4ff^ 4aa-X	.
 *clefF4	*	*
-=	=	=
+=12	=12	=12
 !	!LO:TX:b:i:t=cresc.	!
 4D-X	(8bnL	.
 .	8dd-X	.
@@ -89,7 +87,7 @@
 .	8dd-J) 8gg-X	.
 4d- 4f 4a-	4ff^ 4aa-X	.
 *clefF4	*	*
-=	=	=
+=13	=13	=13
 4C	(8aniL	.
 .	8cc	.
 *clefG2	*	*
@@ -97,7 +95,7 @@
 .	8ccJ) 8gg	.
 4c 4f 4a	4ff^ 4aa	.
 *clefF4	*	*
-=	=	=
+=14	=14	=14
 4C	(8aniL	.
 .	8cc	.
 *clefG2	*	*
@@ -105,7 +103,7 @@
 .	8ccJ) 8gg	.
 4c 4f 4a	4ff^ 4aa	.
 *clefF4	*	*
-=	=	=
+=15	=15	=15
 4BBn	(8ffL	f
 .	8ggJ)	.
 *clefG2	*	*
@@ -115,7 +113,7 @@
 .	8dddJ)	.	.
 *	*v	*v	*
 *clefF4	*	*
-=	=	=
+=16	=16	=16
 4C	(8ccL	.
 .	8ffJ)	.
 *clefG2	*	*
@@ -125,7 +123,7 @@
 .	8aaJ)	.	.
 *	*v	*v	*
 *clefF4	*	*
-=	=	=
+=17	=17	=17
 4C	(8b-L	.
 .	8ccJ)	.
 *clefG2	*	*
@@ -134,7 +132,7 @@
 4c 4e 4g	8aaL	.	.
 .	8ggJ)	.	.
 *clefF4	*	*	*
-=	=	=	=
+=18	=18	=18	=18
 4F	2.ff	2.a 2.cc	.
 4A 4c 4f	.	.	.
 4A 4c 4f	.	.	.
