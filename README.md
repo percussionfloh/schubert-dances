@@ -8,6 +8,9 @@
 | D   | Op  | Op. Title            | №  |
 |-----|-----|----------------------|----|
 | 128 |     | 12 Wiener Tänze      | 4  |
+| 365 | 9   | 36 Originaltänze     | 1  |
+| 365 | 9   | 36 Originaltänze     | 2  |
+| 365 | 9   | 36 Originaltänze     | 3  |
 | 365 | 9   | 36 Originaltänze     | 34 |
 | 365 | 9   | 36 Originaltänze     | 35 |
 | 365 | 9   | 36 Originaltänze     | 36 |
