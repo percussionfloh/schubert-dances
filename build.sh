@@ -19,7 +19,9 @@ for kern_file in "$KERN_DIR"/*; do
         echo "Processing $kern_file..."
 
         tmp_file=$(mktemp)
-        barnum "$kern_file" > "$tmp_file"
+        barnum "$kern_file" \
+            | sed '/^\*I"/d;/^\*I'\''/d' \
+            > "$tmp_file"
         normalize_file "$tmp_file"
 
         if ! cmp -s "$tmp_file" "$kern_file"; then
