@@ -1,0 +1,117 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 365
+!!!OPR: 36 Originaltänze
+!!!OPS: 9
+!!!ONM: 35
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Klavier	*	*
+*I'Klav.	*	*
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*M3/4	*M3/4	*
+=1	=1	=1
+4FF	(8cL	.
+.	8Bn	.
+4C 4F 4A	8c	.
+.	8a	.
+4C 4F 4A	8B	.
+.	8cJ)	.
+=	=	=
+4CC	2.e^ 2.b-Xi	.
+4C 4G 4B-	.	.
+4C 4G 4B-	.	.
+=	=	=
+4CC	(8cL	.
+.	8Bn	.
+4C 4G 4B-	8c	.
+.	8b-	.
+4C 4G 4B-	8B	.
+.	8cJ)	.
+=	=	=
+4FF	2.f^ 2.a	.
+4C 4F 4A	.	.
+4C 4F 4A	.	.
+=	=	=
+4FF	(8cL	.
+.	8Bn	.
+4C 4F 4A	8c	.
+.	8a	.
+4C 4F 4A	8B	.
+.	8cJ)	.
+=	=	=
+4CC	4.b-Xi 4.dd	fp
+4C 4G 4B-	.	.
+.	(8aL 8cc	.
+4C 4G 4B-	8g 8b-	.
+.	8fJ 8a	.
+=	=	=
+4CC	8eL 8g	.
+.	8d 8f	.
+4C 4G	8c 8e	.
+.	8Bn 8d	.
+4C 4G	8c 8e	.
+.	8B-XJ) 8g	.
+=	=	=
+4FF	2.A 2.f	.
+4C 4F	.	.
+4C 4F	.	.
+=:|!|:	=:|!|:	=:|!|:
+4DD-X	(8fL	.
+.	8eni	.
+4D-X 4A-X	8f	.
+.	8dd-X	.
+4D- 4A-	8d-X 8f	.
+.	8dd-J)	.
+=	=	=
+4AAA-X	2.c 2.e-X 2.cc	.
+4AA-X 4E-X 4A-X	.	.
+4AA- 4E- 4A-	.	.
+=	=	=
+4BBB-	(8d-XL	.
+.	8c	.
+4BB- 4F	8d-	.
+.	8b-	.
+4BB- 4F	8B- 8d-	.
+.	8b-J)	.
+=	=	=
+4FFF	2.Ani 2.c 2.ani	.
+4FF 4C 4F	.	.
+4FF 4C 4F	.	.
+=	=	=
+4CC	8cL	.
+.	8Bn	.
+4C 4E 4B-	8c	.
+.	8b-Xi	.
+4C 4E 4B-	8a	.
+.	8gJ	.
+=	=	=
+4FF	8cL	.
+.	8A	.
+4C 4F 4A	8c	.
+.	8a	.
+4C 4F 4A	8g	.
+.	8fJ	.
+=	=	=
+4CC	8eL	.
+.	8c	.
+4C 4G 4B-	8e	.
+.	8dd	.
+4C 4G 4B-	8cc	.
+.	8eJ	.
+=	=	=
+4FF	2.f	.
+4C 4F 4A	.	.
+4C 4F 4A	.	.
+=:|!	=:|!	=:|!
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/11/24
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2025/11/24
+!!!title: @{OPR}, @{SCT} №@{ONM}

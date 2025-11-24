@@ -8,6 +8,9 @@
 | D   | Op  | Op. Title            | №  |
 |-----|-----|----------------------|----|
 | 128 |     | 12 Wiener Tänze      | 4  |
+| 365 | 9   | 36 Originaltänze     | 34 |
+| 365 | 9   | 36 Originaltänze     | 35 |
+| 365 | 9   | 36 Originaltänze     | 36 |
 | 779 | 50  | Valses sentimentales | 1  |
 | 779 | 50  | Valses sentimentales | 2  |
 | 779 | 50  | Valses sentimentales | 4  |

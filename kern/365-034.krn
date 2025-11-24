@@ -1,0 +1,151 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 365
+!!!OPR: 36 Originaltänze
+!!!OPS: 9
+!!!ONM: 34
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Klavier	*	*
+*I'Klav.	*	*
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*M3/4	*M3/4	*
+=1	=1	=1
+4F	2.r	pp
+*clefG2	*	*
+4c 4f 4a	.	.
+4c 4f 4a	.	.
+*clefF4	*	*
+=	=	=
+4F	2.r	.
+*clefG2	*	*
+4c 4f 4a	.	.
+4c 4f 4a	.	.
+*clefF4	*	*
+=!|:	=!|:	=!|:
+4F	(8aaL	.
+.	8bb-	.
+*clefG2	*	*
+4c 4f 4a	8bbn	.
+.	8cccJ)	.
+4c 4e 4g 4b-	(4bb-X^ 4ddd	.
+*clefF4	*	*
+=	=	=
+4C	2.ee) 2.gg	.
+*clefG2	*	*
+4c 4e 4g 4b-	.	.
+4c 4e 4g 4b-	.	.
+*clefF4	*	*
+=	=	=
+4C	(8ggL	.
+.	8aa	.
+*clefG2	*	*
+4c 4e 4g 4b-	8bb-	.
+.	8bbnJ)	.
+4c 4f 4a	(4aa^ 4ccc	.
+*clefF4	*	*
+=	=	=
+4F	2.a) 2.ff	.
+4A 4c 4f	.	.
+4A 4c 4f	.	.
+=	=	=
+4F	(8aL	.
+.	8cc	.
+4A 4c 4f	8a 8ff	.
+.	8ccJ) 8gg	.
+4A 4c 4f	4ff^ 4aa	.
+=	=	=
+4F	(8aL	.
+.	8cc	.
+4A 4c 4f	8a 8ff	.
+.	8ccJ) 8gg	.
+4A 4c 4f	4ff^ 4aa	.
+=	=	=
+4C	(8ccL 8aa	.
+.	8b-) 8gg	.
+4c 4e	(8b- 8gg	.
+.	8ccJ 8aa	.
+4c 4e	4b-) 4gg	.
+=	=	=
+4F	2.a 2.ff	.
+4A 4c 4f	.	.
+4A 4c 4f	.	.
+=:|!|:	=:|!|:	=:|!|:
+4D-X	(8bnL	.
+.	8dd-X	.
+*clefG2	*	*
+4d-X 4f 4a-X	8b 8ff	.
+.	8dd-J) 8gg-X	.
+4d- 4f 4a-	4ff^ 4aa-X	.
+*clefF4	*	*
+=	=	=
+!	!LO:TX:b:i:t=cresc.	!
+4D-X	(8bnL	.
+.	8dd-X	.
+*clefG2	*	*
+4d-X 4f 4a-X	8b 8ff	.
+.	8dd-J) 8gg-X	.
+4d- 4f 4a-	4ff^ 4aa-X	.
+*clefF4	*	*
+=	=	=
+4C	(8aniL	.
+.	8cc	.
+*clefG2	*	*
+4c 4f	8a 8ff	.
+.	8ccJ) 8gg	.
+4c 4f 4a	4ff^ 4aa	.
+*clefF4	*	*
+=	=	=
+4C	(8aniL	.
+.	8cc	.
+*clefG2	*	*
+4c 4f	8a 8ff	.
+.	8ccJ) 8gg	.
+4c 4f 4a	4ff^ 4aa	.
+*clefF4	*	*
+=	=	=
+4BBn	(8ffL	f
+.	8ggJ)	.
+*clefG2	*	*
+*	*^	*
+4Bn 4f 4g	(4fff	2ff 2gg	fz
+4B 4f 4g	8eeeL	.	.
+.	8dddJ)	.	.
+*	*v	*v	*
+*clefF4	*	*
+=	=	=
+4C	(8ccL	.
+.	8ffJ)	.
+*clefG2	*	*
+*	*^	*
+4A 4c 4f	(4ccc	2cc 2ff	fz
+4A 4c 4f	8bb-L	.	.
+.	8aaJ)	.	.
+*	*v	*v	*
+*clefF4	*	*
+=	=	=
+4C	(8b-L	.
+.	8ccJ)	.
+*clefG2	*	*
+*	*^	*
+4c 4e 4g	(4bb-	2b- 2cc	fz
+4c 4e 4g	8aaL	.	.
+.	8ggJ)	.	.
+*clefF4	*	*	*
+=	=	=	=
+4F	2.ff	2.a 2.cc	.
+4A 4c 4f	.	.	.
+4A 4c 4f	.	.	.
+*	*v	*v	*
+=:|!	=:|!	=:|!
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/11/24
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2025/11/24
+!!!title: @{OPR}, @{SCT} №@{ONM}
