@@ -8,6 +8,14 @@
 | D   | Op  | Op. Title            | №  |
 |-----|-----|----------------------|----|
 | 128 |     | 12 Wiener Tänze      | 4  |
+| 365 | 9   | 36 Originaltänze     | 1  |
+| 365 | 9   | 36 Originaltänze     | 2  |
+| 365 | 9   | 36 Originaltänze     | 3  |
+| 365 | 9   | 36 Originaltänze     | 32 |
+| 365 | 9   | 36 Originaltänze     | 33 |
+| 365 | 9   | 36 Originaltänze     | 34 |
+| 365 | 9   | 36 Originaltänze     | 35 |
+| 365 | 9   | 36 Originaltänze     | 36 |
 | 779 | 50  | Valses sentimentales | 1  |
 | 779 | 50  | Valses sentimentales | 2  |
 | 779 | 50  | Valses sentimentales | 4  |
@@ -21,8 +29,8 @@
 | 790 | 171 | 12 Deutsche Tänze    | 8  |
 | 790 | 171 | 12 Deutsche Tänze    | 9  |
 | 790 | 171 | 12 Deutsche Tänze    | 10 |
-| 790 | 171 | 12 Deutsche Tänze    | 11  |
-| 790 | 171 | 12 Deutsche Tänze    | 12  |
+| 790 | 171 | 12 Deutsche Tänze    | 11 |
+| 790 | 171 | 12 Deutsche Tänze    | 12 |
 | 969 | 77  | 12 Valses nobles     | 1  |
 | 969 | 77  | 12 Valses nobles     | 3  |
 | 969 | 77  | 12 Valses nobles     | 4  |
