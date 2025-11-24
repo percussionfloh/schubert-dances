@@ -7,8 +7,6 @@
 **kern	**kern	**dynam
 *part1	*part1	*part1
 *staff2	*staff1	*
-*I"Klavier	*	*
-*I'Klav.	*	*
 *clefF4	*clefG2	*
 *k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*
 *a-:	*a-:	*
@@ -281,5 +279,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2025/10/31
 !!!ENC: Florian Moldaschl
-!!!EEV: 2025/11/22
+!!!EEV: 2025/11/24
 !!!title: @{OPR}, @{SCT} №@{ONM}
