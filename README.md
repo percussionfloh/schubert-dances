@@ -24,8 +24,8 @@
 | 790 | 171 | 12 Deutsche Tänze    | 8  |
 | 790 | 171 | 12 Deutsche Tänze    | 9  |
 | 790 | 171 | 12 Deutsche Tänze    | 10 |
-| 790 | 171 | 12 Deutsche Tänze    | 11  |
-| 790 | 171 | 12 Deutsche Tänze    | 12  |
+| 790 | 171 | 12 Deutsche Tänze    | 11 |
+| 790 | 171 | 12 Deutsche Tänze    | 12 |
 | 969 | 77  | 12 Valses nobles     | 1  |
 | 969 | 77  | 12 Valses nobles     | 3  |
 | 969 | 77  | 12 Valses nobles     | 4  |
