@@ -11,6 +11,9 @@
 | 365 | 9   | 36 Originaltänze     | 1  |
 | 365 | 9   | 36 Originaltänze     | 2  |
 | 365 | 9   | 36 Originaltänze     | 3  |
+| 365 | 9   | 36 Originaltänze     | 29 |
+| 365 | 9   | 36 Originaltänze     | 30 |
+| 365 | 9   | 36 Originaltänze     | 31 |
 | 365 | 9   | 36 Originaltänze     | 32 |
 | 365 | 9   | 36 Originaltänze     | 33 |
 | 365 | 9   | 36 Originaltänze     | 34 |

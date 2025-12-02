@@ -1,0 +1,139 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 365
+!!!OPR: 36 Originaltänze
+!!!OPS: 9
+!!!ONM: 31
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Klavier	*	*
+*I'Klav.	*	*
+*clefG2	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M3/4	*M3/4	*
+=1	=1	=1
+*^	*	*
+(4e 4g	[2.c	8eeL 8gg	p
+.	.	8cc	.
+4d#X 4f#X	.	8dd#X 8ff#X	.
+.	.	8aa	.
+4e 4g	.	8ee 8gg	.
+.	.	8ccJ	.
+=	=	=	=
+4d#X 4f#X	2c]	8dd#XL 8ff#X	.
+.	.	8aa	.
+4e) 4g	.	8ee 8gg	.
+.	.	8ccJ	.
+*v	*v	*	*
+*clefF4	*	*
+4CC 4C	4cc 4ee 4gg 4ccc	fz
+*clefG2	*	*
+=	=	=
+*^	*	*
+(4e 4g	[2.c	8eeL 8gg	.
+.	.	8cc	.
+4d#X 4f#X	.	8dd#X 8ff#X	.
+.	.	8aa	.
+4e 4g	.	8ee 8gg	.
+.	.	8ccJ	.
+=	=	=	=
+4d#X 4f#X	2c]	8dd#XL 8ff#X	.
+.	.	8aa	.
+4e) 4g	.	8ee 8gg	.
+.	.	8ccJ	.
+*v	*v	*	*
+*clefF4	*	*
+4CC 4C	4cc 4ee 4gg 4ccc	fz
+=	=	=
+4AAA 4AA	8ccL 8ee	.
+.	8a	.
+4FF 4F	8b 8dd#X	.
+.	8ffni	.
+4AAA 4AA	8cc 8ee	.
+.	8aJ	.
+=	=	=
+4FF 4F	8bL 8dd#X	.
+.	8ff	.
+4AAA 4AA	8cc 8ee	.
+.	8aJ	.
+4CC 4C	4cc 4gg 4ccc	fz
+=	=	=
+4DD 4D	4dd 4ff#X 4aa 4ddd	f
+8DDL 8D	8ddL 8ff# 8aa 8ddd	.
+8DDJ 8D	8ddJ 8ff# 8aa 8ddd	.
+4DD 4D	4dd 4ff# 4aa 4ddd	.
+=	=	=
+4GG 4G	4dd 4gg 4bb 4ddd	.
+4BB 4B	4dd 4gg 4bb 4ddd	.
+4GG 4G	4dd 4gg 4bb 4ddd	.
+=	=	=
+4DD 4D	4dd 4ff#X 4aa 4ddd	.
+8DDL 8D	8ddL 8ff# 8aa 8ddd	.
+8DDJ 8D	8ddJ 8ff# 8aa 8ddd	.
+4DD 4D	4dd 4ff# 4aa 4ddd	.
+=	=	=
+2GGG 2GG	2gg 2bb 2ddd 2ggg	.
+4r	4r	.
+=:|!|:	=:|!|:	=:|!|:
+4GG 4G	(8ddL 8ff	p
+.	8b	.
+4G 4B 4d 4f	8cc#X^ 8ee	.
+.	8ggJ)	.
+4G 4B 4d 4f	4dd' 4ff	.
+=	=	=
+*	*^	*
+4GG 4G	(2aa	[2b [2dd [2ff	fz
+4G 4B 4d 4f	.	.	.
+4G 4B 4d 4f	8gg)	8b] 8dd] 8ff]	.
+*	*v	*v	*
+.	8r	.
+=	=	=
+4C	(8ccL 8ee	.
+.	8g	.
+4G 4c 4e	8b^ 8dd#X	.
+.	8ffJ)	.
+4G 4c 4e	4cc' 4ee	.
+=	=	=
+*	*^	*
+4CC 4C	(2aa	[2cc [2ee	fz
+4G 4c 4e	.	.	.
+4G 4c 4e	8gg)	8cc] 8ee]	.
+*	*v	*v	*
+.	8r	.
+=	=	=
+4GG 4G	(8ddL 8ff	.
+.	8b	.
+4G 4B 4d 4f	8cc#X^ 8ee	.
+.	8ggJ)	.
+4G 4B 4d 4f	4dd' 4ff	.
+=	=	=
+*	*^	*
+4GGG 4GG	(2aa	[2b [2dd [2ff	fz
+4G 4B 4d 4f	.	.	.
+4G 4B 4d 4f	8gg)	8b] 8dd] 8ff]	.
+*	*v	*v	*
+.	8r	.
+=	=	=
+4CC 4C	4cc 4ee 4gg	f
+4EE 4E	4cc 4ee 4gg 4ccc	.
+4GG 4G	4dd 4gg 4bb 4ddd	.
+=	=	=
+4C 4c	4ee 4gg 4ccc 4eee	.
+4E 4e	4r	.
+4G 4g	4r	.
+=:|!	=:|!	=:|!
+4C 4c	4cc 4ee 4gg 4ccc	.
+4r	4r	.
+4r	4r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/12/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2025/12/02
+!!!title: @{OPR}, @{SCT} №@{ONM}

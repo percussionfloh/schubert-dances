@@ -1,0 +1,119 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 365
+!!!OPR: 36 Originaltänze
+!!!OPS: 9
+!!!ONM: 30
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Klavier	*	*
+*I'Klav.	*	*
+*clefG2	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*
+*M3/4	*M3/4	*
+=1	=1	=1
+4G#	8ff#L	p
+.	8fff#	.
+4d 4e 4b	8ff#	.
+.	8fff#	.
+4d 4e 4b	8ff#	.
+.	8fff#J	.
+=	=	=
+4A	(4ff# 4fff#	.
+4c# 4e 4a	4ee) 4eee	.
+4c# 4e 4a	4cc#' 4ccc#	.
+*clefF4	*	*
+=	=	=
+4E	(4cc# 4ccc#	.
+*clefG2	*	*
+4d 4e 4g#	4b) 4bb	.
+4d 4e 4g#	8cc#'L 8ccc#	.
+.	8dd'J 8ddd	.
+=	=	=
+4A	(2ee 2eee	.
+4c# 4e 4a	.	.
+4c# 4e 4a	4cc#) 4ccc#	.
+=	=	=
+4G#	8ff#L	.
+.	8fff#	.
+4d 4e 4b	8ff#	.
+.	8fff#	.
+4d 4e 4b	8ff#	.
+.	8fff#J	.
+=	=	=
+4A	(4ff# 4fff#	.
+4c# 4e 4a	4ee) 4eee	.
+4c# 4e 4a	4cc#' 4ccc#	.
+*clefF4	*	*
+=	=	=
+4E	(4cc# 4ccc#	.
+*clefG2	*	*
+4d 4e 4g#	4b) 4bb	.
+4d 4e 4g#	8cc#'L 8ccc#	.
+.	8b'J 8bb	.
+=	=	=
+4A	4a 4aa	.
+4c# 4e 4a	4r	.
+4c# 4e 4a	4r	.
+*clefF4	*	*
+=!|:	=!|:	=!|:
+4D#X	8cc#L	fp
+.	8ccc#	.
+4A 4B 4f#	8cc#	.
+.	8ccc#	.
+4A 4B 4f#	8cc#	.
+.	8ccc#J	.
+=	=	=
+4E	(4cc# 4ccc#	.
+4G# 4B 4e	4b) 4bb	.
+4G# 4B 4e	4g#' 4gg#	.
+=	=	=
+4D#X	8cc#L	fp
+.	8ccc#	.
+4A 4B 4f#	8cc#	.
+.	8ccc#	.
+4A 4B 4f#	8cc#	.
+.	8ccc#J	.
+=	=	=
+4E	(4cc# 4ccc#	.
+4G# 4B 4e	4b) 4bb	.
+4G# 4B 4e	4g#' 4gg#	.
+=	=	=
+4E	4ff# 4fff#	.
+*clefG2	*	*
+4dni 4e 4g# 4b	4ff# 4fff#	.
+4d 4e 4g# 4b	4gg# 4ggg#	.
+*clefF4	*	*
+=	=	=
+4E	(4gg#^ 4ggg#	.
+*clefG2	*	*
+4c# 4e 4a	4bb 4bbb	.
+4c# 4e 4a	8aa) 8aaa	.
+.	8r	.
+*clefF4	*	*
+=	=	=
+4E	(4b 4bb	.
+*clefG2	*	*
+4d 4e 4g#	4.dd^ 4.ddd	.
+4d 4e 4g#	.	.
+.	8cc#) 8ccc#	.
+=	=	=
+4A	4a 4aa	.
+4c# 4e 4a	4r	.
+4c# 4e 4a	4r	.
+=:|!	=:|!	=:|!
+4A	4a 4aa	.
+4c# 4e 4a	4r	.
+4r	4r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: i = editorial accidental
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/12/02
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2025/12/02
+!!!title: @{OPR}, @{SCT} №@{ONM}
