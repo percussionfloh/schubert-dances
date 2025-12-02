@@ -7,98 +7,96 @@
 **kern	**kern
 *part1	*part1
 *staff2	*staff1
-*I"Klavier	*
-*I'Klav.	*
 *clefF4	*clefG2
 *k[b-e-a-d-]	*k[b-e-a-d-]
 *M3/4	*M3/4
-=1	=1
-4r	4cc 4ccc
 =	=
+4r	4cc 4ccc
+=1	=1
 *A-:	*
 4D-	(4cc^ 4ccc
 4d- 4f	4ff)
 4d- 4f	4ff'
-=	=
+=2	=2
 4D-	4.ff
 4d- 4f	.
 .	8gg
 4d- 4f	8aa-L
 .	8bb-J
-=	=
+=3	=3
 4E-	(4b- 4bb-
 4A- 4c	4ee-)
 4A- 4c	4ee-'
-=	=
+=4	=4
 4E-	4.ee-
 4A- 4c	.
 .	(8ff
 4A- 4c	8ggL
 .	8aa-J)
-=	=
+=5	=5
 *	*^
 4E-	(4aa-	(4a-
 4B- 4d- 4e-	4gg)	4g)
 4B- 4d- 4e-	4gg'	4g
 *	*v	*v
-=	=
+=6	=6
 4E-	(4.b-^ 4.bb-
 4A- 4c 4e-	.
 .	8aa-
 4A- 4c 4e-	8ggL
 .	8ffJ)
 !!linebreak:original
-=	=
+=7	=7
 4E-	(4.g^ 4.ee-
 4B- 4d- 4e-	.
 .	8dd-
 4B- 4d- 4e-	8ccL
 .	8b-J)
-=	=
+=8	=8
 4AA-	4a-
 4A- 4c	4r
 =:|!|:	=:|!|:
 4r	4ff
-=	=
+=9	=9
 4F	(4ff^
 4c 4e- 4f	4an)
 4c 4e- 4f	4a'
-=	=
+=10	=10
 4B-	(4ee-^ 4gg-X
 4d- 4f	8dd-L 8ff
 .	8ccJ 8ee-
 4d- 4f	8b-) 8dd-
 .	8r
-=	=
+=11	=11
 4E-	(4ee-^
 4B- 4d- 4e-	4g)
 4B- 4d- 4e-	4g'
-=	=
+=12	=12
 4A-	(4dd-^ 4ff
 4c 4e-	8ccL 8ee-
 .	8b-J 8dd-
 4c 4e-	8a-) 8cc
 .	8r
 !!linebreak:original
-=	=
+=13	=13
 4D-	4cc^ 4ccc
 4d- 4f	(8ffL
 .	8ggJ
 4d- 4f	8aa-L
 .	8bb-J)
-=	=
+=14	=14
 4E-	(4.b-^ 4.bb-
 4c 4e-	.
 .	8aa-
 4c 4e-	8ggL
 .	8ffJ)
-=	=
+=15	=15
 4E-	(4.g^ 4.ee-
 4B- 4d- 4e-	.
 .	8dd-
 4B- 4d-	8ccL
 .	8b-J)
-=	=
+=16	=16
 4AA-	4a-
 4A- 4c 4e-	4r
 =:|!	=:|!
