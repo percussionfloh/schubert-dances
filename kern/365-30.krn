@@ -7,11 +7,13 @@
 **kern	**kern	**dynam
 *part1	*part1	*part1
 *staff2	*staff1	*
+*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]
 *clefG2	*clefG2	*
 *k[f#c#g#]	*k[f#c#g#]	*
 *A:	*A:	*
 *M3/4	*M3/4	*
 =1	=1	=1
+*>A	*>A	*>A
 4G#	8ff#L	p
 .	8fff#	.
 4d 4e 4b	8ff#	.
@@ -57,6 +59,7 @@
 4c# 4e 4a	4r	.
 *clefF4	*	*
 =9!|:	=9!|:	=9!|:
+*>B	*>B	*>B
 4D#X	8cc#L	fp
 .	8ccc#	.
 4A 4B 4f#	8cc#	.
@@ -98,10 +101,12 @@
 4d 4e 4g#	.	.
 .	8cc#) 8ccc#	.
 =16	=16	=16
+*>B1	*>B1	*>B1
 4A	4a 4aa	.
 4c# 4e 4a	4r	.
 4c# 4e 4a	4r	.
 =17:|!	=17:|!	=17:|!
+*>B2	*>B2	*>B2
 4A	4a 4aa	.
 4c# 4e 4a	4r	.
 4r	4r	.
