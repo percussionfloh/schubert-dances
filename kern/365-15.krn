@@ -1,0 +1,120 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31-1828/11/19
+!!!SCT: D. 365
+!!!OPR: 36 Originaltänze
+!!!OPS: 9
+!!!ONM: 15
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Klavier	*	*
+*I'Klav.	*	*
+*clefG2	*clefG2	*
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
+*M3/4	*M3/4	*
+=1	=1	=1
+*D-:	*D-:	*
+4r	4dd- 4ff	.
+=	=	=
+*^	*^	*
+4r	2.A-	(4ff 4aa-	(4ddn	>
+4g- 4a-	.	4gg-)	4ee-)	]
+4g- 4a-	.	4gg-	4ee-	.
+*	*	*v	*v	*
+=	=	=	=
+4r	2.A-	(4.ee- 4.gg-	.
+4g- 4a-	.	.	.
+.	.	8dd- 8ff	.
+4g- 4a-	.	8ccL 8ee-	.
+.	.	8b-J) 8dd-	.
+=	=	=	=
+4r	2.A-	4a- 4cc	.
+4g- 4a-	.	(8a-L 8cc	.
+.	.	8b-J 8dd-	.
+4g- 4a-	.	4cc) 4ee-	.
+=	=	=	=
+*	*	*^	*
+4r	2.d-	(4een	(4cc	.
+4f 4a-	.	4ff)	4dd-)	.
+4f 4a-	.	4ff	4dd-	.
+=	=	=	=	=
+4r	2.A-	(4ff 4aa-	(4ddn	>
+4g- 4a-	.	4gg-)	4ee-)	]
+4g- 4a-	.	4gg-	4ee-	.
+*	*	*v	*v	*
+=	=	=	=
+4r	2.A-	(4.ee- 4.gg-	.
+4g- 4a-	.	.	.
+.	.	8dd- 8ff	.
+4g- 4a-	.	8ccL 8ee-	.
+.	.	8b-J) 8dd-	.
+!!linebreak:original
+=	=	=	=
+4r	2.A-	4a- 4cc	.
+4g- 4a-	.	8ccL	.
+.	.	8b-J 8dd-	.
+4g- 4a-	.	8ccL 8ee-	.
+.	.	8dd-J 8ff	.
+=	=	=	=
+2f 2a-	2d-	2dd-	.
+*v	*v	*	*
+*clefF4	*	*
+=:|!|:	=:|!|:	=:|!|:
+4BB- 4B-	4a- 4ddn	.
+=	=	=
+*E-:	*E-:	*
+*^	*	*
+4r	2.E-	4a- 4ddn 4ff	.
+4B- 4e-	.	4g- 4ee-	.
+4B- 4e-	.	4g- 4ee-	.
+=	=	=	=
+*A-:	*A-:	*A-:	*
+*	*	*^	*
+4r	2.E-	4.ee-	2.g-	.
+4B- 4e-	.	.	.	.
+.	.	(8dd-	.	.
+4B- 4e-	.	8ccL	.	.
+.	.	8b-J)	.	.
+*v	*v	*	*	*
+=	=	=	=
+4AA- 4A-	4b-	2g-	.
+4A- 4c	4a-	.	.
+4A- 4c	4a-	4g-	.
+=	=	=	=
+*D-:	*D-:	*D-:	*
+4AA- 4A-	4.a-	2.g-	.
+4A- 4c	.	.	.
+.	(8an	.	.
+4A- 4c	8b-L	.	.
+.	8ccJ)	.	.
+!!linebreak:original
+=	=	=	=
+*^	*	*	*
+4r	2.D-	4ee-	2.f	.
+4A- 4d-	.	4dd-	.	.
+4A- 4d-	.	4dd-	.	.
+*	*	*v	*v	*
+=	=	=	=
+4r	2.BB-	2f 2dd-	.
+4F 4B-	.	.	.
+4F 4B-	.	(8ee-L	.
+.	.	8ffJ	.
+*v	*v	*	*
+=	=	=
+*	*^	*
+2EE- 2E-	4aa-	2b-	.
+.	4gg-)	.	.
+4AA- 4A-	8ee-L	4g- 4cc	.
+.	8ffJ	.	.
+*	*v	*v	*
+=	=	=
+2DD- 2D-	2f 2dd-	.
+=:|!	=:|!	=:|!
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!AGN: Walzer
+!!!EED: Wolfgang Drescher
+!!!END: 2025/12/03
+!!!ENC: Florian Moldaschl
+!!!EEV: 2025/12/03
+!!!title: @{OPR}, @{SCT} №@{ONM}
